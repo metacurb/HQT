@@ -58,3 +58,4 @@ Google Search | no. of results  | 20%    |
 ## Examples/Inspiration
 * [sushant10/HQ_Bot - Python](https://github.com/sushant10/HQ_Bot)
 * [maxenxe/HQ-Trivia-Bot - JS](https://github.com/maxenxe/HQ-Trivia-Bot)
+* [Possible OCR alternative? - Python](https://github.com/Exaphis/HackQ-Trivia/blob/master/hq_main.py)
