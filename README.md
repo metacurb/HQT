@@ -40,11 +40,12 @@ HQT
 
 ## Scoring System
 This will need to be updated as time goes on. Numbers will need to be updated to try and give the best representational score possible.
-| Resource      | Scoring type    | Weight |
-| --------------|-----------------|--------|
-| Wolfram Alpha | result returned | 60%    |
-| Wikipedia     | result returned | 20%    |
-| Google Search | no. of results  | 20%    |
+
+Resource      | Scoring type    | Weight |
+------------- | --------------- | ------ |
+Wolfram Alpha | result returned | 60%    |
+Wikipedia     | result returned | 20%    |
+Google Search | no. of results  | 20%    |
 
 
 ## Resources/APIs
