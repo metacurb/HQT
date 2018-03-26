@@ -1,0 +1,21 @@
+{
+  "name": "hqt",
+  "version": "1.0.0",
+  "description": "Don't be smart, be lazy",
+  "main": "init.js",
+  "scripts": {
+    "build": "babel src -d dist",
+    "init": "node dist/init",
+    "start": "npm run build && npm run init"
+  },
+  "author": "Beau August",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-core": "^6.26.0",
+    "babel-preset-env": "^1.6.1",
+    "eslint": "^4.19.1",
+    "eslint-config-airbnb-base": "^12.1.0",
+    "eslint-plugin-import": "^2.9.0"
+  }
+}
