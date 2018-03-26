@@ -18,6 +18,10 @@ HQT
 │   .babelrc              // Babel configuration
 │   .eslintrc.json        // ESLint configuration
 │
+└───resources
+│   │
+│   └───images            // Example images to test with
+│
 └───dist                  // Transpiled code will end up here 
 │
 └───src
