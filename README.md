@@ -15,6 +15,7 @@ Wikipedia     | Number of "hits"| 35%    |
 
 ### Google
 Using Google's custom search engine REST API, we are able to return a list of results based upon a query. This gives us important data that we can validate our question against. We will take:
+
 * The number of results
 * The number of "hits" returned, checking each _relevant_ word in the question against the descriptions from the results.
 
@@ -29,10 +30,18 @@ TBC.
 
 ## Setup
 
+#### Prerequisites
+1. [Google Custom Search](https://support.google.com/customsearch/answer/2630963?hl=en)
+1. [Google Custom Search API key](https://developers.google.com/custom-search/json-api/v1/overview)
+
+#### Code
 1. `git clone` the repository
-2. `cd hqt`
-3. `npm install`
-4. `npm run start`
+1. `cd hqt`
+1. `touch .env`, and in that file enter:
+    * `GOOGLE_KEY` - Your Google Custom Search API Key
+    * `GOOGLE_ENGINE_ID` - Your Google Custom Search Engine ID
+1. `npm install`
+1. `npm run start`
 
 ## Structure
 ```
