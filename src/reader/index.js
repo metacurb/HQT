@@ -1,7 +1,7 @@
 import scan from './scan';
 import parse from './parse';
 
-const questionData = {
+const data = {
   question: 'Which of these rivers is in italy?',
   answers: [
     'Tiber',
@@ -10,10 +10,7 @@ const questionData = {
   ],
 };
 
-const init = () => new Promise((resolve, reject) => {
-  resolve(questionData);
-  reject();
-});
+const init = async () => Promise.resolve(parse(data));
 
 export default {
   init,
