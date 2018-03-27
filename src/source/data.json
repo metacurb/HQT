@@ -1,0 +1,58 @@
+{
+	"active": true,
+	"atCapacity": false,
+	"showId": 4115,
+	"showType": "hq-uk",
+	"startTime": "2018-03-27T20:00:00.000Z",
+	"nextShowTime": null,
+	"nextShowPrize": null,
+	"upcoming": [{
+		"time": "2018-03-28T14:00:00.000Z",
+		"prize": "£550"
+	}, {
+		"time": "2018-03-28T20:00:00.000Z",
+		"prize": "£550"
+	}, {
+		"time": "2018-03-29T14:00:00.000Z",
+		"prize": "£550"
+	}, {
+		"time": "2018-03-29T20:00:00.000Z",
+		"prize": "£550"
+	}, {
+		"time": "2018-03-30T14:00:00.000Z",
+		"prize": "£550"
+	}],
+	"prize": 550,
+	"broadcast": {
+		"broadcastId": 44245,
+		"userId": 38752,
+		"title": "Wirecast stream",
+		"status": 1,
+		"state": "live",
+		"channelId": 100,
+		"created": "2018-03-27T19:54:12.000Z",
+		"started": "2018-03-27T19:54:12.000Z",
+		"ended": null,
+		"permalink": "https://hy.pe/b/ake",
+		"thumbnailData": null,
+		"tags": [],
+		"socketUrl": "https://ws-quiz.hype.space/ws/44245",
+		"streams": {
+			"source": "rtsp://edge-hq-uk.hype.space:1935/live/wirecast_high",
+			"passthrough": "rtsp://edge-hq-uk.hype.space:1935/live/wirecast_high",
+			"high": "rtsp://edge-hq-uk.hype.space:1935/live/wirecast_high",
+			"medium": "rtsp://edge-hq-uk.hype.space:1935/live/wirecast_medium",
+			"low": "rtsp://edge-hq-uk.hype.space:1935/live/wirecast_low"
+		},
+		"streamUrl": "rtsp://edge-hq-uk.hype.space:1935/live/wirecast_high",
+		"streamKey": "wirecast",
+		"relativeTimestamp": 4824,
+		"links": {
+			"self": "/broadcasts/44245",
+			"transcript": "/broadcasts/44245/transcript",
+			"viewers": "/broadcasts/44245/viewers"
+		}
+	},
+	"gameKey": "hq-uk:15",
+	"broadcastFull": false
+}
