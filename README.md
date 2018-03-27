@@ -1,6 +1,32 @@
 # HQT
 Attempt to find the answer most likely to be correct from a question given on HQ Trivia. It will attempt to utilise various APIs, and create a "score" based on the results.
 
+## How it works
+### Scoring
+A scoring system will be used to determine how likely that any one of the answers is the correct one. This won't be full-proof, but will hopefully give a better indicator of a correct answer. Below is a summary of how each part of the system works.
+This will need to be updated as time goes on. Numbers will need to be updated to try and give the best representational score possible.
+
+Resource      | Scoring type    | Weight |
+------------- | --------------- | ------ |
+Wolfram Alpha | result returned | 15%    |
+Google Search | no. of results  | 15%    |
+Google Search | Number of "hits"| 35%    |
+Wikipedia     | Number of "hits"| 35%    |
+
+### Google
+Using Google's custom search engine REST API, we are able to return a list of results based upon a query. This gives us important data that we can validate our question against. We will take:
+* The number of results
+* The number of "hits" returned, checking each _relevant_ word in the question against the descriptions from the results.
+
+We can that use that information and compare it to each answer, creating a score.
+
+### Wikipedia
+Similarly to Google, we will use Wikipedia's API to search for each answer. Using the question, we will check for "hits" matching _relevant_ words.
+
+### Wolfram
+TBC.
+
+
 ## Setup
 
 1. `git clone` the repository
@@ -27,31 +53,30 @@ HQT
 └───src
     │   init.js           // Initialiser script
     │
-    └───resolvers
+    └───helpers
     │   │   index.js
-    │   │   wolfram.js    // Results returned from Wolfram's API
-    │   │   wikipedia.js  // Results returned from Wikipedia's API
-    │   └───google.js     // Results returned from Googles search API
+    │   └───getHits.js    // Find the number of matches an array of words has in a text
+    │
+    └───log
+    │   │   index.js
+    │   │   success.js    // console.log success formatting
+    │   │   warn.js       // console.log warn formatting
+    │   │   error.js      // console.log error formatting
+    │   └───reset.js      // Clear the console
     │
     └───reader
+    │   │   index.js
+    │   │   scan.js       // Read image, and grab text from it
+    │   │   wordlist.js   // List of words to strip out of a question
+    │   └───parse.js      // Prepare text for search using resolvers
+    │
+    └───resolvers
         │   index.js
-        │   scan.js       // Read image, and grab text from it
-        │   wordlist.js   // List of words to strip out of a question
-        └───parse.js      // Prepare text for search using resolvers
+        │   wolfram.js    // Results returned from Wolfram's API
+        │   wikipedia.js  // Results returned from Wikipedia's API
+        └───google.js     // Results returned from Googles search API
 
 ```
-
-
-## Scoring System
-This will need to be updated as time goes on. Numbers will need to be updated to try and give the best representational score possible.
-
-Resource      | Scoring type    | Weight |
-------------- | --------------- | ------ |
-Wolfram Alpha | result returned | 60%    |
-Wikipedia     | result returned | 20%    |
-Google Search | no. of results  | 20%    |
-
-
 ## Resources/APIs
 * [Wolfram Alpha](http://products.wolframalpha.com/api/)
 * [Google Vision](https://cloud.google.com/vision/)
