@@ -1,6 +1,6 @@
 import wordlist from './wordlist';
 
-const removeQuestionMark = string => string.replace(/\?/g, '');
+const removeSymbols = string => string.replace(/[^a-zA-Z ]/g, '');
 
 const isNegative = word => wordlist.negative.indexOf(word) !== -1;
 
@@ -11,7 +11,7 @@ const isBlacklisted = (questionString, word, index) => {
 
 const cleanQuestion = (string) => {
   const words = string.split(' ');
-  const question = removeQuestionMark(words.reduce(isBlacklisted, ''));
+  const question = removeSymbols(words.reduce(isBlacklisted, '')).toLowerCase();
 
   return {
     question,
@@ -19,7 +19,7 @@ const cleanQuestion = (string) => {
   };
 };
 
-const cleanAnswers = array => array.map(answer => answer.toLowerCase());
+const cleanAnswers = array => array.map(answer => answer.text.toLowerCase());
 
 export default function parse(data) {
   const question = cleanQuestion(data.question);
