@@ -1,0 +1,3963 @@
+{
+	"messages": [
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:03:45.279Z",
+			"itemId": "chat",
+			"userId": 14428093,
+			"metadata": {
+				"userId": 14428093,
+				"message": "Hang on isn’t it fish?",
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/a/4b/14428093-1eZgX3.jpg",
+				"interaction": "chat",
+				"username": "sirusf"
+			},
+			"sent": "2018-03-28T14:03:45.299Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:03:45.777Z",
+			"itemId": "chat",
+			"userId": 14019878,
+			"metadata": {
+				"userId": 14019878,
+				"message": "Answer is snorkel",
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/default_avatars/Untitled-1_0001_blue.png",
+				"interaction": "chat",
+				"username": "scorpionacog"
+			},
+			"sent": "2018-03-28T14:03:45.801Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:03:45.803Z",
+			"itemId": "chat",
+			"userId": 14877981,
+			"metadata": {
+				"userId": 14877981,
+				"message": "Bawsacks",
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/default_avatars/Untitled-1_0004_gold.png",
+				"interaction": "chat",
+				"username": "hoppy303"
+			},
+			"sent": "2018-03-28T14:03:45.823Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:03:45.925Z",
+			"itemId": "chat",
+			"userId": 13793488,
+			"metadata": {
+				"userId": 13793488,
+				"message": "🐴🐴🐴🐴🐴🐴🐴🐴🐴🐴🐴🐴🐴",
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/default_avatars/Untitled-1_0004_gold.png",
+				"interaction": "chat",
+				"username": "mhopkins88"
+			},
+			"sent": "2018-03-28T14:03:45.948Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:03:46.117Z",
+			"itemId": "chat",
+			"userId": 13354794,
+			"metadata": {
+				"userId": 13354794,
+				"message": "Shazza is the real MVP",
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/default_avatars/Untitled-1_0004_gold.png",
+				"interaction": "chat",
+				"username": "joelosborne9"
+			},
+			"sent": "2018-03-28T14:03:46.127Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:03:46.296Z",
+			"itemId": "chat",
+			"userId": 12919700,
+			"metadata": {
+				"userId": 12919700,
+				"message": "☪️",
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/default_avatars/Untitled-1_0002_purple.png",
+				"interaction": "chat",
+				"username": "claudiamayd"
+			},
+			"sent": "2018-03-28T14:03:46.324Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:03:46.798Z",
+			"itemId": "chat",
+			"userId": 14674285,
+			"metadata": {
+				"userId": 14674285,
+				"message": "Love a cupppaaaaaa",
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/default_avatars/Untitled-1_0001_blue.png",
+				"interaction": "chat",
+				"username": "adam manning"
+			},
+			"sent": "2018-03-28T14:03:46.821Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:03:46.998Z",
+			"itemId": "chat",
+			"userId": 14704932,
+			"metadata": {
+				"userId": 14704932,
+				"message": "Fish",
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/default_avatars/Untitled-1_0002_purple.png",
+				"interaction": "chat",
+				"username": "PlayboiSid"
+			},
+			"sent": "2018-03-28T14:03:47.021Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:03:47.105Z",
+			"itemId": "chat",
+			"userId": 12124442,
+			"metadata": {
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/default_avatars/Untitled-1_0004_gold.png",
+				"interaction": "chat",
+				"message": "mupđŕà",
+				"userId": 12124442,
+				"username": "soupbowlhaircut"
+			},
+			"sent": "2018-03-28T14:03:47.133Z"
+		},
+		{
+			"type": "broadcastStats",
+			"ts": "2018-03-28T14:03:47.757Z",
+			"statusMessage": "",
+			"viewerCounts": {
+				"connected": 45733,
+				"playing": 44092,
+				"watching": 1406
+			},
+			"c": 1,
+			"sent": "2018-03-28T14:03:47.808Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:03:48.040Z",
+			"itemId": "chat",
+			"userId": 11167154,
+			"metadata": {
+				"userId": 11167154,
+				"message": "Nathan is a small man",
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/default_avatars/Untitled-1_0004_gold.png",
+				"interaction": "chat",
+				"username": "caitlinfurniss"
+			},
+			"sent": "2018-03-28T14:03:48.061Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:03:48.168Z",
+			"itemId": "chat",
+			"userId": 13212773,
+			"metadata": {
+				"userId": 13212773,
+				"message": "ck is dead guy",
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/a/98/13212773-uvmz9M.jpg",
+				"interaction": "chat",
+				"username": "nijkohli"
+			},
+			"sent": "2018-03-28T14:03:48.197Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:03:48.279Z",
+			"itemId": "chat",
+			"userId": 13818648,
+			"metadata": {
+				"userId": 13818648,
+				"message": "Where’s shoals???",
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/default_avatars/Untitled-1_0004_gold.png",
+				"interaction": "chat",
+				"username": "degan89"
+			},
+			"sent": "2018-03-28T14:03:48.301Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:03:48.309Z",
+			"itemId": "chat",
+			"userId": 14372457,
+			"metadata": {
+				"userId": 14372457,
+				"message": "Hi",
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/default_avatars/Untitled-1_0001_blue.png",
+				"interaction": "chat",
+				"username": "andrea1x"
+			},
+			"sent": "2018-03-28T14:03:48.329Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:03:48.425Z",
+			"itemId": "chat",
+			"userId": 11068848,
+			"metadata": {
+				"userId": 11068848,
+				"message": "Bonken out",
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/a/2a/11068848-8ztirq.jpg",
+				"interaction": "chat",
+				"username": "DanDanDAN!"
+			},
+			"sent": "2018-03-28T14:03:48.434Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:03:48.876Z",
+			"itemId": "chat",
+			"userId": 13869998,
+			"metadata": {
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/a/87/13869998-MkjT6L.jpg",
+				"interaction": "chat",
+				"message": "wea",
+				"userId": 13869998,
+				"username": "ernaldthefirst"
+			},
+			"sent": "2018-03-28T14:03:48.890Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:03:49.113Z",
+			"itemId": "chat",
+			"userId": 12271722,
+			"metadata": {
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/a/5a/12271722-rQ3reu.jpg",
+				"interaction": "chat",
+				"message": "messin",
+				"userId": 12271722,
+				"username": "MichaelSwan98"
+			},
+			"sent": "2018-03-28T14:03:49.136Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:03:49.196Z",
+			"itemId": "chat",
+			"userId": 11540534,
+			"metadata": {
+				"userId": 11540534,
+				"message": "Shout out to Mandel",
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/default_avatars/Untitled-1_0002_purple.png",
+				"interaction": "chat",
+				"username": "calmero"
+			},
+			"sent": "2018-03-28T14:03:49.217Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:03:49.511Z",
+			"itemId": "chat",
+			"userId": 13501686,
+			"metadata": {
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/default_avatars/Untitled-1_0003_red.png",
+				"interaction": "chat",
+				"message": "shazza",
+				"userId": 13501686,
+				"username": "RoomyDoggyDog"
+			},
+			"sent": "2018-03-28T14:03:49.533Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:03:49.538Z",
+			"itemId": "chat",
+			"userId": 14253985,
+			"metadata": {
+				"userId": 14253985,
+				"message": "50 shades of tea",
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/a/db/14253985-J8ejsa.jpg",
+				"interaction": "chat",
+				"username": "maxsmith"
+			},
+			"sent": "2018-03-28T14:03:49.569Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:03:49.622Z",
+			"itemId": "chat",
+			"userId": 707348,
+			"metadata": {
+				"userId": 707348,
+				"message": "I WONNN!!!!",
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/default_avatars/Untitled-1_0004_gold.png",
+				"interaction": "chat",
+				"username": "Charlie7x"
+			},
+			"sent": "2018-03-28T14:03:49.641Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:03:50.151Z",
+			"itemId": "chat",
+			"userId": 14829254,
+			"metadata": {
+				"userId": 14829254,
+				"message": "Meant fish",
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/default_avatars/Untitled-1_0003_red.png",
+				"interaction": "chat",
+				"username": "jeffers15"
+			},
+			"sent": "2018-03-28T14:03:50.170Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:03:50.149Z",
+			"itemId": "chat",
+			"userId": 14789993,
+			"metadata": {
+				"userId": 14789993,
+				"message": "This is cain birtwhistle",
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/default_avatars/Untitled-1_0001_blue.png",
+				"interaction": "chat",
+				"username": "hegartinho"
+			},
+			"sent": "2018-03-28T14:03:50.192Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:03:50.210Z",
+			"itemId": "chat",
+			"userId": 12472325,
+			"metadata": {
+				"userId": 12472325,
+				"message": "Magnetto",
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/default_avatars/Untitled-1_0004_gold.png",
+				"interaction": "chat",
+				"username": "s.james"
+			},
+			"sent": "2018-03-28T14:03:50.225Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:03:50.528Z",
+			"itemId": "chat",
+			"userId": 13795025,
+			"metadata": {
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/default_avatars/Untitled-1_0003_red.png",
+				"interaction": "chat",
+				"message": "sharons a teas",
+				"userId": 13795025,
+				"username": "birtle10"
+			},
+			"sent": "2018-03-28T14:03:50.549Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:03:50.671Z",
+			"itemId": "chat",
+			"userId": 14408724,
+			"metadata": {
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/default_avatars/Untitled-1_0002_purple.png",
+				"interaction": "chat",
+				"message": "curry",
+				"userId": 14408724,
+				"username": "LetsQuizzInMyPants"
+			},
+			"sent": "2018-03-28T14:03:50.691Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:03:50.788Z",
+			"itemId": "chat",
+			"userId": 12118057,
+			"metadata": {
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/default_avatars/Untitled-1_0001_blue.png",
+				"interaction": "chat",
+				"message": "fish?",
+				"userId": 12118057,
+				"username": "Michelke76"
+			},
+			"sent": "2018-03-28T14:03:50.809Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:03:51.410Z",
+			"itemId": "chat",
+			"userId": 14571049,
+			"metadata": {
+				"userId": 14571049,
+				"message": "Anyone who got that wrong isn’t brutish",
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/default_avatars/Untitled-1_0000_green.png",
+				"interaction": "chat",
+				"username": "masongos"
+			},
+			"sent": "2018-03-28T14:03:51.439Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:03:51.444Z",
+			"itemId": "chat",
+			"userId": 14224151,
+			"metadata": {
+				"userId": 14224151,
+				"message": "Tea!!",
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/default_avatars/Untitled-1_0003_red.png",
+				"interaction": "chat",
+				"username": "lauraatwelll"
+			},
+			"sent": "2018-03-28T14:03:51.458Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:03:51.722Z",
+			"itemId": "chat",
+			"userId": 14415494,
+			"metadata": {
+				"userId": 14415494,
+				"message": "Tilted towers",
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/default_avatars/Untitled-1_0004_gold.png",
+				"interaction": "chat",
+				"username": "DemonG "
+			},
+			"sent": "2018-03-28T14:03:51.739Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:03:51.893Z",
+			"itemId": "chat",
+			"userId": 13939920,
+			"metadata": {
+				"userId": 13939920,
+				"message": "Hello agenda21!",
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/default_avatars/Untitled-1_0003_red.png",
+				"interaction": "chat",
+				"username": "ankitant"
+			},
+			"sent": "2018-03-28T14:03:51.916Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:03:52.561Z",
+			"itemId": "chat",
+			"userId": 14820620,
+			"metadata": {
+				"userId": 14820620,
+				"message": "I got kicked out",
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/a/47/14820620-yBjaPv.jpg",
+				"interaction": "chat",
+				"username": "Iwillwinthisgame12"
+			},
+			"sent": "2018-03-28T14:03:52.593Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:03:52.660Z",
+			"itemId": "chat",
+			"userId": 13796881,
+			"metadata": {
+				"userId": 13796881,
+				"message": "BOOKS",
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/default_avatars/Untitled-1_0003_red.png",
+				"interaction": "chat",
+				"username": "Swaggron"
+			},
+			"sent": "2018-03-28T14:03:52.683Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:03:52.946Z",
+			"itemId": "chat",
+			"userId": 14072466,
+			"metadata": {
+				"userId": 14072466,
+				"message": "How do you get that wrong?",
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/default_avatars/Untitled-1_0000_green.png",
+				"interaction": "chat",
+				"username": "chaza51"
+			},
+			"sent": "2018-03-28T14:03:52.967Z"
+		},
+		{
+			"type": "broadcastStats",
+			"ts": "2018-03-28T14:03:53.026Z",
+			"statusMessage": "",
+			"viewerCounts": {
+				"connected": 45539,
+				"playing": 44093,
+				"watching": 1208
+			},
+			"c": 2,
+			"sent": "2018-03-28T14:03:53.080Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:03:53.498Z",
+			"itemId": "chat",
+			"userId": 12296692,
+			"metadata": {
+				"userId": 12296692,
+				"message": "🇧🇫🇧🇫🇧🇫🇧🇫🇧🇫🇧🇫🇧🇫🇧🇫",
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/a/b3/12296692-c7jdhW.jpg",
+				"interaction": "chat",
+				"username": "nathan.clapperton"
+			},
+			"sent": "2018-03-28T14:03:53.526Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:03:53.702Z",
+			"itemId": "chat",
+			"userId": 13796315,
+			"metadata": {
+				"userId": 13796315,
+				"message": "HARRISON",
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/a/fd/13796315-vDlz9S.jpg",
+				"interaction": "chat",
+				"username": "Dr.Zoidberg"
+			},
+			"sent": "2018-03-28T14:03:53.722Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:03:53.954Z",
+			"itemId": "chat",
+			"userId": 12984486,
+			"metadata": {
+				"userId": 12984486,
+				"message": "WILLIAN",
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/default_avatars/Untitled-1_0002_purple.png",
+				"interaction": "chat",
+				"username": "amyarnone"
+			},
+			"sent": "2018-03-28T14:03:53.976Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:03:54.124Z",
+			"itemId": "chat",
+			"userId": 13211911,
+			"metadata": {
+				"userId": 13211911,
+				"message": "Shazam is fishy",
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/default_avatars/Untitled-1_0003_red.png",
+				"interaction": "chat",
+				"username": "jaredellis6"
+			},
+			"sent": "2018-03-28T14:03:54.126Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:03:54.521Z",
+			"itemId": "chat",
+			"userId": 13283894,
+			"metadata": {
+				"userId": 13283894,
+				"message": "I WON",
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/a/76/13283894-NVja8l.jpg",
+				"interaction": "chat",
+				"username": "tommyxmale"
+			},
+			"sent": "2018-03-28T14:03:54.542Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:03:54.600Z",
+			"itemId": "chat",
+			"userId": 14527527,
+			"metadata": {
+				"userId": 14527527,
+				"message": "🐔",
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/default_avatars/Untitled-1_0004_gold.png",
+				"interaction": "chat",
+				"username": "adawills"
+			},
+			"sent": "2018-03-28T14:03:54.621Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:03:54.856Z",
+			"itemId": "chat",
+			"userId": 11606856,
+			"metadata": {
+				"userId": 11606856,
+				"message": "Eugene ford",
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/default_avatars/Untitled-1_0000_green.png",
+				"interaction": "chat",
+				"username": "adibf"
+			},
+			"sent": "2018-03-28T14:03:54.887Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:03:54.979Z",
+			"itemId": "chat",
+			"userId": 13469183,
+			"metadata": {
+				"userId": 13469183,
+				"message": "Curry",
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/a/e7/13469183-ksoivS.jpg",
+				"interaction": "chat",
+				"username": "Tmps"
+			},
+			"sent": "2018-03-28T14:03:55.002Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:03:55.151Z",
+			"itemId": "chat",
+			"userId": 10836691,
+			"metadata": {
+				"userId": 10836691,
+				"message": "Say wallah",
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/default_avatars/Untitled-1_0000_green.png",
+				"interaction": "chat",
+				"username": "lsagar2002"
+			},
+			"sent": "2018-03-28T14:03:55.173Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:03:55.528Z",
+			"itemId": "chat",
+			"userId": 14408788,
+			"metadata": {
+				"userId": 14408788,
+				"message": "Rah",
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/default_avatars/Untitled-1_0000_green.png",
+				"interaction": "chat",
+				"username": "samoshea57"
+			},
+			"sent": "2018-03-28T14:03:55.551Z"
+		},
+		{
+			"type": "question",
+			"ts": "2018-03-28T14:03:55.517Z",
+			"totalTimeMs": 10000,
+			"timeLeftMs": 10000,
+			"questionId": 32491,
+			"question": "In Dickens’ novel, what does Oliver Twist request when he asks, “Please, sir, I want some more?”",
+			"category": "Literature ",
+			"answers": [
+				{
+					"answerId": 99508,
+					"text": "Gruel"
+				},
+				{
+					"answerId": 99509,
+					"text": "French fries"
+				},
+				{
+					"answerId": 99510,
+					"text": "Capri sun"
+				}
+			],
+			"questionNumber": 2,
+			"questionCount": 12,
+			"askTime": "2018-03-28T14:03:55.517Z",
+			"c": 3,
+			"sent": "2018-03-28T14:03:55.599Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:03:55.733Z",
+			"itemId": "chat",
+			"userId": 11877359,
+			"metadata": {
+				"userId": 11877359,
+				"message": "HANNAH WORVOYS",
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/default_avatars/Untitled-1_0002_purple.png",
+				"interaction": "chat",
+				"username": "hannah.hall"
+			},
+			"sent": "2018-03-28T14:03:55.753Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:03:55.873Z",
+			"itemId": "chat",
+			"userId": 9323552,
+			"metadata": {
+				"userId": 9323552,
+				"message": "JAMES LANGHOR IS FITTTTT ❤️❤️❤️😐😉😁😂🏉😁😁🍝😐🏉🙌😢😌👉🤔😄😁🍝🏉",
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/default_avatars/Untitled-1_0004_gold.png",
+				"interaction": "chat",
+				"username": "jameslangho"
+			},
+			"sent": "2018-03-28T14:03:55.902Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:03:56.098Z",
+			"itemId": "chat",
+			"userId": 1936505,
+			"metadata": {
+				"userId": 1936505,
+				"message": "🇵🇹🇵🇹🇵🇹",
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/a/c7/1936505-qZb67A.jpg",
+				"interaction": "chat",
+				"username": "Stratomaster"
+			},
+			"sent": "2018-03-28T14:03:56.120Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:03:56.205Z",
+			"itemId": "chat",
+			"userId": 12625425,
+			"metadata": {
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/a/25/12625425-NkCrNF.jpg",
+				"interaction": "chat",
+				"message": "OMG I WON",
+				"userId": 12625425,
+				"username": "ovvenchips"
+			},
+			"sent": "2018-03-28T14:03:56.219Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:03:56.233Z",
+			"itemId": "chat",
+			"userId": 14347860,
+			"metadata": {
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/default_avatars/Untitled-1_0004_gold.png",
+				"interaction": "chat",
+				"message": "shazza",
+				"userId": 14347860,
+				"username": "reymaniac"
+			},
+			"sent": "2018-03-28T14:03:56.248Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:03:56.569Z",
+			"itemId": "chat",
+			"userId": 12602136,
+			"metadata": {
+				"userId": 12602136,
+				"message": "Shout out Paige Swansea!!!",
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/default_avatars/Untitled-1_0001_blue.png",
+				"interaction": "chat",
+				"username": "paigedavisxx"
+			},
+			"sent": "2018-03-28T14:03:56.591Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:03:56.713Z",
+			"itemId": "chat",
+			"userId": 14371717,
+			"metadata": {
+				"userId": 14371717,
+				"message": "Gucci gang",
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/default_avatars/Untitled-1_0001_blue.png",
+				"interaction": "chat",
+				"username": "marvinsordell2"
+			},
+			"sent": "2018-03-28T14:03:56.749Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:03:56.742Z",
+			"itemId": "chat",
+			"userId": 9426952,
+			"metadata": {
+				"userId": 9426952,
+				"message": "I missed you Sharon",
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/default_avatars/Untitled-1_0003_red.png",
+				"interaction": "chat",
+				"username": "SamWhu30"
+			},
+			"sent": "2018-03-28T14:03:56.773Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:03:56.877Z",
+			"itemId": "chat",
+			"userId": 14823929,
+			"metadata": {
+				"userId": 14823929,
+				"message": "Get on with it",
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/default_avatars/Untitled-1_0003_red.png",
+				"interaction": "chat",
+				"username": "willtaylor98"
+			},
+			"sent": "2018-03-28T14:03:56.894Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:03:57.210Z",
+			"itemId": "chat",
+			"userId": 13354794,
+			"metadata": {
+				"userId": 13354794,
+				"message": "Shazza is the real MVP",
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/default_avatars/Untitled-1_0004_gold.png",
+				"interaction": "chat",
+				"username": "joelosborne9"
+			},
+			"sent": "2018-03-28T14:03:57.219Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:03:57.298Z",
+			"itemId": "chat",
+			"userId": 14533545,
+			"metadata": {
+				"userId": 14533545,
+				"message": "She’s fire",
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/default_avatars/Untitled-1_0003_red.png",
+				"interaction": "chat",
+				"username": "willjervis"
+			},
+			"sent": "2018-03-28T14:03:57.326Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:03:57.972Z",
+			"itemId": "chat",
+			"userId": 14819111,
+			"metadata": {
+				"userId": 14819111,
+				"message": "Love you Shaz",
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/default_avatars/Untitled-1_0000_green.png",
+				"interaction": "chat",
+				"username": "bobb.la"
+			},
+			"sent": "2018-03-28T14:03:57.995Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:03:57.998Z",
+			"itemId": "chat",
+			"userId": 13425060,
+			"metadata": {
+				"userId": 13425060,
+				"message": "FRASER HIGGINS",
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/a/27/13425060-1Vb2ey.jpg",
+				"interaction": "chat",
+				"username": "danyellyeh"
+			},
+			"sent": "2018-03-28T14:03:58.020Z"
+		},
+		{
+			"type": "broadcastStats",
+			"ts": "2018-03-28T14:03:58.087Z",
+			"statusMessage": "",
+			"viewerCounts": {
+				"connected": 45522,
+				"playing": 44093,
+				"watching": 1132
+			},
+			"c": 4,
+			"sent": "2018-03-28T14:03:58.141Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:03:58.446Z",
+			"itemId": "chat",
+			"userId": 14587432,
+			"metadata": {
+				"userId": 14587432,
+				"message": "LYDIA CHOO THE CARROTS",
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/default_avatars/Untitled-1_0003_red.png",
+				"interaction": "chat",
+				"username": "dsmogoi"
+			},
+			"sent": "2018-03-28T14:03:58.456Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:03:58.585Z",
+			"itemId": "chat",
+			"userId": 2533907,
+			"metadata": {
+				"userId": 2533907,
+				"message": "Land at tilted",
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/default_avatars/Untitled-1_0004_gold.png",
+				"interaction": "chat",
+				"username": "LoomieB"
+			},
+			"sent": "2018-03-28T14:03:58.606Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:03:59.173Z",
+			"itemId": "chat",
+			"userId": 13875257,
+			"metadata": {
+				"userId": 13875257,
+				"message": "Sausage Question",
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/default_avatars/Untitled-1_0002_purple.png",
+				"interaction": "chat",
+				"username": "reecebutler"
+			},
+			"sent": "2018-03-28T14:03:59.198Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:03:59.935Z",
+			"itemId": "chat",
+			"userId": 13469183,
+			"metadata": {
+				"userId": 13469183,
+				"message": "You stick off curry",
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/a/e7/13469183-ksoivS.jpg",
+				"interaction": "chat",
+				"username": "Tmps"
+			},
+			"sent": "2018-03-28T14:03:59.969Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:04:00.902Z",
+			"itemId": "chat",
+			"userId": 12845550,
+			"metadata": {
+				"userId": 12845550,
+				"message": "Guel",
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/default_avatars/Untitled-1_0003_red.png",
+				"interaction": "chat",
+				"username": "crongehh"
+			},
+			"sent": "2018-03-28T14:04:00.960Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:04:01.475Z",
+			"itemId": "chat",
+			"userId": 9134268,
+			"metadata": {
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/a/ec/9134268-1Rbv9r.jpg",
+				"interaction": "chat",
+				"message": "gruel",
+				"userId": 9134268,
+				"username": "Echo Calibre"
+			},
+			"sent": "2018-03-28T14:04:01.495Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:04:01.819Z",
+			"itemId": "chat",
+			"userId": 12483024,
+			"metadata": {
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/a/01/12483024-iLONnn.jpg",
+				"interaction": "chat",
+				"message": "capri",
+				"userId": 12483024,
+				"username": "kittieme0w"
+			},
+			"sent": "2018-03-28T14:04:01.844Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:04:02.086Z",
+			"itemId": "chat",
+			"userId": 13963073,
+			"metadata": {
+				"userId": 13963073,
+				"message": "Fries",
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/default_avatars/Untitled-1_0001_blue.png",
+				"interaction": "chat",
+				"username": "samstevenson111"
+			},
+			"sent": "2018-03-28T14:04:02.109Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:04:02.670Z",
+			"itemId": "chat",
+			"userId": 12970976,
+			"metadata": {
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/default_avatars/Untitled-1_0001_blue.png",
+				"interaction": "chat",
+				"message": "fries defo",
+				"userId": 12970976,
+				"username": "Jared29"
+			},
+			"sent": "2018-03-28T14:04:02.687Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:04:02.871Z",
+			"itemId": "chat",
+			"userId": 14022620,
+			"metadata": {
+				"userId": 14022620,
+				"message": "Capri sun",
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/default_avatars/Untitled-1_0003_red.png",
+				"interaction": "chat",
+				"username": "alicejenkins25"
+			},
+			"sent": "2018-03-28T14:04:02.893Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:04:02.957Z",
+			"itemId": "chat",
+			"userId": 11068848,
+			"metadata": {
+				"userId": 11068848,
+				"message": "Bonken out",
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/a/2a/11068848-8ztirq.jpg",
+				"interaction": "chat",
+				"username": "DanDanDAN!"
+			},
+			"sent": "2018-03-28T14:04:02.970Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:04:03.000Z",
+			"itemId": "chat",
+			"userId": 12626662,
+			"metadata": {
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/a/2d/12626662-owpK6W.jpg",
+				"interaction": "chat",
+				"message": "frirs",
+				"userId": 12626662,
+				"username": "elrodeo"
+			},
+			"sent": "2018-03-28T14:04:03.020Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:04:03.091Z",
+			"itemId": "chat",
+			"userId": 13145903,
+			"metadata": {
+				"userId": 13145903,
+				"message": "Capri",
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/default_avatars/Untitled-1_0001_blue.png",
+				"interaction": "chat",
+				"username": "jhawkins763"
+			},
+			"sent": "2018-03-28T14:04:03.113Z"
+		},
+		{
+			"type": "broadcastStats",
+			"ts": "2018-03-28T14:04:03.140Z",
+			"statusMessage": "",
+			"viewerCounts": {
+				"connected": 45503,
+				"playing": 44093,
+				"watching": 1069
+			},
+			"c": 5,
+			"sent": "2018-03-28T14:04:03.192Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:04:03.282Z",
+			"itemId": "chat",
+			"userId": 4878107,
+			"metadata": {
+				"userId": 4878107,
+				"message": "CAPRI SUN",
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/a/fb/4878107-5ZGYZm.jpg",
+				"interaction": "chat",
+				"username": "JoeyKay"
+			},
+			"sent": "2018-03-28T14:04:03.302Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:04:03.699Z",
+			"itemId": "chat",
+			"userId": 9904964,
+			"metadata": {
+				"userId": 9904964,
+				"message": "Capri sun",
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/default_avatars/Untitled-1_0000_green.png",
+				"interaction": "chat",
+				"username": "elliotf18"
+			},
+			"sent": "2018-03-28T14:04:03.725Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:04:03.874Z",
+			"itemId": "chat",
+			"userId": 13437575,
+			"metadata": {
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/default_avatars/Untitled-1_0003_red.png",
+				"interaction": "chat",
+				"message": "fries",
+				"userId": 13437575,
+				"username": "skyman888"
+			},
+			"sent": "2018-03-28T14:04:03.899Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:04:03.978Z",
+			"itemId": "chat",
+			"userId": 11716131,
+			"metadata": {
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/a/7b/11716131-VyZDcW.jpg",
+				"interaction": "chat",
+				"message": "chups",
+				"userId": 11716131,
+				"username": "WillB85"
+			},
+			"sent": "2018-03-28T14:04:04.008Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:04:04.039Z",
+			"itemId": "chat",
+			"userId": 14229476,
+			"metadata": {
+				"userId": 14229476,
+				"message": "Capri sun",
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/default_avatars/Untitled-1_0002_purple.png",
+				"interaction": "chat",
+				"username": "lbruty"
+			},
+			"sent": "2018-03-28T14:04:04.061Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:04:04.225Z",
+			"itemId": "chat",
+			"userId": 13820797,
+			"metadata": {
+				"userId": 13820797,
+				"message": "Capri sun",
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/default_avatars/Untitled-1_0000_green.png",
+				"interaction": "chat",
+				"username": "jeksbdpx x"
+			},
+			"sent": "2018-03-28T14:04:04.235Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:04:04.272Z",
+			"itemId": "chat",
+			"userId": 14072169,
+			"metadata": {
+				"userId": 14072169,
+				"message": "Fries",
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/a/56/14072169-xGDDcC.jpg",
+				"interaction": "chat",
+				"username": "will8m8"
+			},
+			"sent": "2018-03-28T14:04:04.295Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:04:04.331Z",
+			"itemId": "chat",
+			"userId": 13999319,
+			"metadata": {
+				"userId": 13999319,
+				"message": "Fries",
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/a/f8/13999319-oL22OS.jpg",
+				"interaction": "chat",
+				"username": "JP1885"
+			},
+			"sent": "2018-03-28T14:04:04.363Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:04:04.924Z",
+			"itemId": "chat",
+			"userId": 14432246,
+			"metadata": {
+				"userId": 14432246,
+				"message": "capri sun",
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/default_avatars/Untitled-1_0001_blue.png",
+				"interaction": "chat",
+				"username": "akasarx"
+			},
+			"sent": "2018-03-28T14:04:04.934Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:04:04.998Z",
+			"itemId": "chat",
+			"userId": 9363214,
+			"metadata": {
+				"userId": 9363214,
+				"message": "capri sun",
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/default_avatars/Untitled-1_0002_purple.png",
+				"interaction": "chat",
+				"username": "yungabbey"
+			},
+			"sent": "2018-03-28T14:04:05.015Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:04:05.043Z",
+			"itemId": "chat",
+			"userId": 12921492,
+			"metadata": {
+				"userId": 12921492,
+				"message": "fries",
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/default_avatars/Untitled-1_0002_purple.png",
+				"interaction": "chat",
+				"username": "zariuskin"
+			},
+			"sent": "2018-03-28T14:04:05.059Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:04:05.309Z",
+			"itemId": "chat",
+			"userId": 13602039,
+			"metadata": {
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/a/f6/13602039-Vbkw2Y.jpg",
+				"interaction": "chat",
+				"message": "teas",
+				"userId": 13602039,
+				"username": "Mislpaced"
+			},
+			"sent": "2018-03-28T14:04:05.340Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:04:05.367Z",
+			"itemId": "chat",
+			"userId": 4255917,
+			"metadata": {
+				"userId": 4255917,
+				"message": "Gruel",
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/default_avatars/Untitled-1_0003_red.png",
+				"interaction": "chat",
+				"username": "yasmindaly"
+			},
+			"sent": "2018-03-28T14:04:05.488Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:04:05.445Z",
+			"itemId": "chat",
+			"userId": 13355081,
+			"metadata": {
+				"userId": 13355081,
+				"message": "YOUR EYEbrows",
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/default_avatars/Untitled-1_0004_gold.png",
+				"interaction": "chat",
+				"username": "johnwhitrhouse"
+			},
+			"sent": "2018-03-28T14:04:05.502Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:04:05.758Z",
+			"itemId": "chat",
+			"userId": 13427848,
+			"metadata": {
+				"userId": 13427848,
+				"message": "Capri",
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/default_avatars/Untitled-1_0003_red.png",
+				"interaction": "chat",
+				"username": "CelticGlasgow"
+			},
+			"sent": "2018-03-28T14:04:05.773Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:04:06.000Z",
+			"itemId": "chat",
+			"userId": 13934166,
+			"metadata": {
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/default_avatars/Untitled-1_0003_red.png",
+				"interaction": "chat",
+				"message": "curry",
+				"userId": 13934166,
+				"username": "nikkarsan"
+			},
+			"sent": "2018-03-28T14:04:06.026Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:04:06.308Z",
+			"itemId": "chat",
+			"userId": 11060582,
+			"metadata": {
+				"userId": 11060582,
+				"message": "Fries",
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/default_avatars/Untitled-1_0001_blue.png",
+				"interaction": "chat",
+				"username": "iainlong"
+			},
+			"sent": "2018-03-28T14:04:06.320Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:04:06.393Z",
+			"itemId": "chat",
+			"userId": 12924365,
+			"metadata": {
+				"userId": 12924365,
+				"message": "Capri",
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/a/a2/12924365-HJnPyA.jpg",
+				"interaction": "chat",
+				"username": "dommack1"
+			},
+			"sent": "2018-03-28T14:04:06.419Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:04:07.090Z",
+			"itemId": "chat",
+			"userId": 10953308,
+			"metadata": {
+				"userId": 10953308,
+				"message": "Gruel",
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/a/99/10953308-MBVIxV.jpg",
+				"interaction": "chat",
+				"username": "JackGrahamslaw"
+			},
+			"sent": "2018-03-28T14:04:07.119Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:04:07.129Z",
+			"itemId": "chat",
+			"userId": 13145903,
+			"metadata": {
+				"userId": 13145903,
+				"message": "Capri sun",
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/default_avatars/Untitled-1_0001_blue.png",
+				"interaction": "chat",
+				"username": "jhawkins763"
+			},
+			"sent": "2018-03-28T14:04:07.144Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:04:07.131Z",
+			"itemId": "chat",
+			"userId": 13590196,
+			"metadata": {
+				"userId": 13590196,
+				"message": "🇬🇧🏴󠁧󠁢󠁳󠁣󠁴󠁿🇬🇧🏴󠁧󠁢󠁳󠁣󠁴󠁿🇬🇧🏴󠁧󠁢󠁥󠁮󠁧󠁿 WATP",
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/default_avatars/Untitled-1_0003_red.png",
+				"interaction": "chat",
+				"username": "AlexWS8"
+			},
+			"sent": "2018-03-28T14:04:07.168Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:04:07.563Z",
+			"itemId": "chat",
+			"userId": 14074746,
+			"metadata": {
+				"userId": 14074746,
+				"message": "Capri sun",
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/default_avatars/Untitled-1_0003_red.png",
+				"interaction": "chat",
+				"username": "kbrown122"
+			},
+			"sent": "2018-03-28T14:04:07.586Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:04:07.588Z",
+			"itemId": "chat",
+			"userId": 13796881,
+			"metadata": {
+				"userId": 13796881,
+				"message": "BOOKS",
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/default_avatars/Untitled-1_0003_red.png",
+				"interaction": "chat",
+				"username": "Swaggron"
+			},
+			"sent": "2018-03-28T14:04:07.611Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:04:07.622Z",
+			"itemId": "chat",
+			"userId": 4090908,
+			"metadata": {
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/a/2c/4090908-0sZKsK.jpg",
+				"interaction": "chat",
+				"message": "GRUEL MEANS GRUEL",
+				"userId": 4090908,
+				"username": "CalicoBantam"
+			},
+			"sent": "2018-03-28T14:04:07.641Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:04:07.875Z",
+			"itemId": "chat",
+			"userId": 14305202,
+			"metadata": {
+				"userId": 14305202,
+				"message": "Capri sun",
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/default_avatars/Untitled-1_0000_green.png",
+				"interaction": "chat",
+				"username": "fjturner4"
+			},
+			"sent": "2018-03-28T14:04:07.877Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:04:08.170Z",
+			"itemId": "chat",
+			"userId": 13518608,
+			"metadata": {
+				"userId": 13518608,
+				"message": "SHOALS!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/a/9e/13518608-Ss0EtU.jpg",
+				"interaction": "chat",
+				"username": "pan74"
+			},
+			"sent": "2018-03-28T14:04:08.203Z"
+		},
+		{
+			"type": "broadcastStats",
+			"ts": "2018-03-28T14:04:08.192Z",
+			"statusMessage": "",
+			"viewerCounts": {
+				"connected": 45469,
+				"playing": 44093,
+				"watching": 1023
+			},
+			"c": 6,
+			"sent": "2018-03-28T14:04:08.245Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:04:08.566Z",
+			"itemId": "chat",
+			"userId": 12810057,
+			"metadata": {
+				"userId": 12810057,
+				"message": "Capri sun",
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/default_avatars/Untitled-1_0004_gold.png",
+				"interaction": "chat",
+				"username": "ADotXros"
+			},
+			"sent": "2018-03-28T14:04:08.587Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:04:08.595Z",
+			"itemId": "chat",
+			"userId": 14018542,
+			"metadata": {
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/default_avatars/Untitled-1_0002_purple.png",
+				"interaction": "chat",
+				"message": "capri sun",
+				"userId": 14018542,
+				"username": "LHirst11"
+			},
+			"sent": "2018-03-28T14:04:08.622Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:04:08.695Z",
+			"itemId": "chat",
+			"userId": 14315697,
+			"metadata": {
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/default_avatars/Untitled-1_0001_blue.png",
+				"interaction": "chat",
+				"message": "capri sun",
+				"userId": 14315697,
+				"username": "CameronLH"
+			},
+			"sent": "2018-03-28T14:04:08.711Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:04:08.912Z",
+			"itemId": "chat",
+			"userId": 13897574,
+			"metadata": {
+				"userId": 13897574,
+				"message": "Capri sun",
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/default_avatars/Untitled-1_0001_blue.png",
+				"interaction": "chat",
+				"username": "bcl bandit"
+			},
+			"sent": "2018-03-28T14:04:08.934Z"
+		},
+		{
+			"type": "questionClosed",
+			"ts": "2018-03-28T14:04:08.994Z",
+			"questionId": "32491",
+			"c": 7,
+			"sent": "2018-03-28T14:04:09.044Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:04:09.210Z",
+			"itemId": "chat",
+			"userId": 14704932,
+			"metadata": {
+				"userId": 14704932,
+				"message": "French fries",
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/default_avatars/Untitled-1_0002_purple.png",
+				"interaction": "chat",
+				"username": "PlayboiSid"
+			},
+			"sent": "2018-03-28T14:04:09.238Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:04:09.293Z",
+			"itemId": "chat",
+			"userId": 14151304,
+			"metadata": {
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/a/8d/14151304-AVtqGm.jpg",
+				"interaction": "chat",
+				"message": "capri",
+				"userId": 14151304,
+				"username": "guitarguyev"
+			},
+			"sent": "2018-03-28T14:04:09.313Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:04:09.316Z",
+			"itemId": "chat",
+			"userId": 13424080,
+			"metadata": {
+				"userId": 13424080,
+				"message": "Fries",
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/a/4e/13424080-ry404d.jpg",
+				"interaction": "chat",
+				"username": "AlexBailey45"
+			},
+			"sent": "2018-03-28T14:04:09.339Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:04:09.933Z",
+			"itemId": "chat",
+			"userId": 14218494,
+			"metadata": {
+				"userId": 14218494,
+				"message": "Gruel",
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/default_avatars/Untitled-1_0003_red.png",
+				"interaction": "chat",
+				"username": "sj123456"
+			},
+			"sent": "2018-03-28T14:04:09.946Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:04:10.213Z",
+			"itemId": "chat",
+			"userId": 14482403,
+			"metadata": {
+				"userId": 14482403,
+				"message": "Capri sun",
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/default_avatars/Untitled-1_0001_blue.png",
+				"interaction": "chat",
+				"username": "jaghz"
+			},
+			"sent": "2018-03-28T14:04:10.234Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:04:10.416Z",
+			"itemId": "chat",
+			"userId": 13960431,
+			"metadata": {
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/default_avatars/Untitled-1_0004_gold.png",
+				"interaction": "chat",
+				"message": "bonken out",
+				"userId": 13960431,
+				"username": "joekamstra"
+			},
+			"sent": "2018-03-28T14:04:10.436Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:04:10.631Z",
+			"itemId": "chat",
+			"userId": 14674207,
+			"metadata": {
+				"userId": 14674207,
+				"message": "I love Capri sun",
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/default_avatars/Untitled-1_0004_gold.png",
+				"interaction": "chat",
+				"username": "plumbs"
+			},
+			"sent": "2018-03-28T14:04:10.651Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:04:10.786Z",
+			"itemId": "chat",
+			"userId": 14698655,
+			"metadata": {
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/default_avatars/Untitled-1_0000_green.png",
+				"interaction": "chat",
+				"message": "hot",
+				"userId": 14698655,
+				"username": "IAmGoingToWinHaha"
+			},
+			"sent": "2018-03-28T14:04:10.796Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:04:11.058Z",
+			"itemId": "chat",
+			"userId": 14130521,
+			"metadata": {
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/a/d7/14130521-2NQfL7.jpg",
+				"interaction": "chat",
+				"message": "capri sun",
+				"userId": 14130521,
+				"username": "mattyh98"
+			},
+			"sent": "2018-03-28T14:04:11.078Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:04:11.098Z",
+			"itemId": "chat",
+			"userId": 11435028,
+			"metadata": {
+				"userId": 11435028,
+				"message": "Eden out on q1",
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/a/74/11435028-qRxgMj.jpg",
+				"interaction": "chat",
+				"username": "KongBoy"
+			},
+			"sent": "2018-03-28T14:04:11.131Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:04:11.236Z",
+			"itemId": "chat",
+			"userId": 13145809,
+			"metadata": {
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/default_avatars/Untitled-1_0002_purple.png",
+				"interaction": "chat",
+				"message": "sapri cun",
+				"userId": 13145809,
+				"username": "frasercowie2"
+			},
+			"sent": "2018-03-28T14:04:11.255Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:04:11.427Z",
+			"itemId": "chat",
+			"userId": 13939920,
+			"metadata": {
+				"userId": 13939920,
+				"message": "Hello agenda21",
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/default_avatars/Untitled-1_0003_red.png",
+				"interaction": "chat",
+				"username": "ankitant"
+			},
+			"sent": "2018-03-28T14:04:11.450Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:04:11.484Z",
+			"itemId": "chat",
+			"userId": 10725784,
+			"metadata": {
+				"userId": 10725784,
+				"message": "MAN GOT CAPRI",
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/a/30/10725784-HjWoIb.jpg",
+				"interaction": "chat",
+				"username": "afcxveteran"
+			},
+			"sent": "2018-03-28T14:04:11.657Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:04:11.648Z",
+			"itemId": "chat",
+			"userId": 13896601,
+			"metadata": {
+				"userId": 13896601,
+				"message": "Tilted towers",
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/default_avatars/Untitled-1_0004_gold.png",
+				"interaction": "chat",
+				"username": "Gamjee"
+			},
+			"sent": "2018-03-28T14:04:11.678Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:04:11.839Z",
+			"itemId": "chat",
+			"userId": 14567348,
+			"metadata": {
+				"userId": 14567348,
+				"message": "Capriiii",
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/default_avatars/Untitled-1_0000_green.png",
+				"interaction": "chat",
+				"username": "eleanor95"
+			},
+			"sent": "2018-03-28T14:04:11.868Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:04:12.148Z",
+			"itemId": "chat",
+			"userId": 13133729,
+			"metadata": {
+				"userId": 13133729,
+				"message": "SHOUTOUT JUNGLE CREATIONS SHOUTOUT JUNGLE CREATIONS",
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/default_avatars/Untitled-1_0001_blue.png",
+				"interaction": "chat",
+				"username": "JhTerz"
+			},
+			"sent": "2018-03-28T14:04:12.168Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:04:12.244Z",
+			"itemId": "chat",
+			"userId": 12753539,
+			"metadata": {
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/default_avatars/Untitled-1_0001_blue.png",
+				"interaction": "chat",
+				"message": "is it vegan tho",
+				"userId": 12753539,
+				"username": "ThyMist"
+			},
+			"sent": "2018-03-28T14:04:12.268Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:04:12.470Z",
+			"itemId": "chat",
+			"userId": 13360086,
+			"metadata": {
+				"userId": 13360086,
+				"message": "GUWOP",
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/default_avatars/Untitled-1_0001_blue.png",
+				"interaction": "chat",
+				"username": "Whittle98"
+			},
+			"sent": "2018-03-28T14:04:12.483Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:04:12.496Z",
+			"itemId": "chat",
+			"userId": 12735295,
+			"metadata": {
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/a/03/12735295-F7SV9g.jpg",
+				"interaction": "chat",
+				"message": "paul shoals",
+				"userId": 12735295,
+				"username": "toOtinc"
+			},
+			"sent": "2018-03-28T14:04:12.510Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:04:12.867Z",
+			"itemId": "chat",
+			"userId": 13226989,
+			"metadata": {
+				"userId": 13226989,
+				"message": "Mario is a plumber",
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/default_avatars/Untitled-1_0000_green.png",
+				"interaction": "chat",
+				"username": "BertFarr"
+			},
+			"sent": "2018-03-28T14:04:12.895Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:04:13.105Z",
+			"itemId": "chat",
+			"userId": 13874444,
+			"metadata": {
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/default_avatars/Untitled-1_0004_gold.png",
+				"interaction": "chat",
+				"message": "capri sun",
+				"userId": 13874444,
+				"username": "kartikparmar"
+			},
+			"sent": "2018-03-28T14:04:13.126Z"
+		},
+		{
+			"type": "broadcastStats",
+			"ts": "2018-03-28T14:04:13.335Z",
+			"statusMessage": "",
+			"viewerCounts": {
+				"connected": 45309,
+				"playing": 42628,
+				"watching": 2265
+			},
+			"c": 8,
+			"sent": "2018-03-28T14:04:13.384Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:04:13.390Z",
+			"itemId": "chat",
+			"userId": 14568698,
+			"metadata": {
+				"userId": 14568698,
+				"message": "Shazzza",
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/default_avatars/Untitled-1_0001_blue.png",
+				"interaction": "chat",
+				"username": "fmaobnikos"
+			},
+			"sent": "2018-03-28T14:04:13.420Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:04:13.575Z",
+			"itemId": "chat",
+			"userId": 14697121,
+			"metadata": {
+				"userId": 14697121,
+				"message": "Say hi imran",
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/default_avatars/Untitled-1_0002_purple.png",
+				"interaction": "chat",
+				"username": "rav2d2"
+			},
+			"sent": "2018-03-28T14:04:13.594Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:04:13.649Z",
+			"itemId": "chat",
+			"userId": 13821667,
+			"metadata": {
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/default_avatars/Untitled-1_0003_red.png",
+				"interaction": "chat",
+				"message": "capriii",
+				"userId": 13821667,
+				"username": "shemsp"
+			},
+			"sent": "2018-03-28T14:04:13.658Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:04:13.733Z",
+			"itemId": "chat",
+			"userId": 12266031,
+			"metadata": {
+				"userId": 12266031,
+				"message": "Gruel",
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/default_avatars/Untitled-1_0003_red.png",
+				"interaction": "chat",
+				"username": "rose3012"
+			},
+			"sent": "2018-03-28T14:04:13.801Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:04:14.175Z",
+			"itemId": "chat",
+			"userId": 14791574,
+			"metadata": {
+				"userId": 14791574,
+				"message": "Capri ting",
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/a/9b/14791574-zmbUhh.jpg",
+				"interaction": "chat",
+				"username": "Quack Beans"
+			},
+			"sent": "2018-03-28T14:04:14.196Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:04:14.624Z",
+			"itemId": "chat",
+			"userId": 14348986,
+			"metadata": {
+				"userId": 14348986,
+				"message": "Shazza",
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/default_avatars/Untitled-1_0000_green.png",
+				"interaction": "chat",
+				"username": "amaiaupson"
+			},
+			"sent": "2018-03-28T14:04:14.638Z"
+		},
+		{
+			"type": "broadcastEnded",
+			"ts": "2018-03-28T14:04:15.015Z",
+			"reason": "You are no longer in the game. Please join again.",
+			"sent": "2018-03-28T14:04:15.015Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:04:34.043Z",
+			"itemId": "chat",
+			"userId": 5592875,
+			"metadata": {
+				"userId": 5592875,
+				"message": "Hi bobby",
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/default_avatars/Untitled-1_0003_red.png",
+				"interaction": "chat",
+				"username": "sonny567"
+			},
+			"sent": "2018-03-28T14:04:34.063Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:04:34.768Z",
+			"itemId": "chat",
+			"userId": 12271722,
+			"metadata": {
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/a/5a/12271722-rQ3reu.jpg",
+				"interaction": "chat",
+				"message": "hi",
+				"userId": 12271722,
+				"username": "MichaelSwan98"
+			},
+			"sent": "2018-03-28T14:04:34.790Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:04:34.811Z",
+			"itemId": "chat",
+			"userId": 13821412,
+			"metadata": {
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/default_avatars/Untitled-1_0000_green.png",
+				"interaction": "chat",
+				"message": "and kt was porridge",
+				"userId": 13821412,
+				"username": "AnteCON"
+			},
+			"sent": "2018-03-28T14:04:34.832Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:04:34.875Z",
+			"itemId": "chat",
+			"userId": 10143867,
+			"metadata": {
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/default_avatars/Untitled-1_0000_green.png",
+				"interaction": "chat",
+				"message": "chips glorious chips",
+				"userId": 10143867,
+				"username": "fosticle"
+			},
+			"sent": "2018-03-28T14:04:34.900Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:04:35.091Z",
+			"itemId": "chat",
+			"userId": 14294681,
+			"metadata": {
+				"userId": 14294681,
+				"message": "Paul SHOALLLLLLES",
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/default_avatars/Untitled-1_0004_gold.png",
+				"interaction": "chat",
+				"username": "tomcorner23"
+			},
+			"sent": "2018-03-28T14:04:35.113Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:04:35.798Z",
+			"itemId": "chat",
+			"userId": 14371595,
+			"metadata": {
+				"userId": 14371595,
+				"message": "Waheyy SHAZZA",
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/default_avatars/Untitled-1_0002_purple.png",
+				"interaction": "chat",
+				"username": "euandoeee"
+			},
+			"sent": "2018-03-28T14:04:35.825Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:04:35.925Z",
+			"itemId": "chat",
+			"userId": 14875679,
+			"metadata": {
+				"userId": 14875679,
+				"message": "🏴󠁧󠁢󠁷󠁬󠁳󠁿",
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/default_avatars/Untitled-1_0003_red.png",
+				"interaction": "chat",
+				"username": "millerdopalas"
+			},
+			"sent": "2018-03-28T14:04:35.945Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:04:35.948Z",
+			"itemId": "chat",
+			"userId": 14792325,
+			"metadata": {
+				"userId": 14792325,
+				"message": "UTFR🇾🇪🇾🇪🇾🇪🇾🇪🇾🇪🇾🇪",
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/default_avatars/Untitled-1_0003_red.png",
+				"interaction": "chat",
+				"username": "CemIsik"
+			},
+			"sent": "2018-03-28T14:04:35.966Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:04:35.982Z",
+			"itemId": "chat",
+			"userId": 14877500,
+			"metadata": {
+				"userId": 14877500,
+				"message": "🐢🐢🐢🐢",
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/default_avatars/Untitled-1_0003_red.png",
+				"interaction": "chat",
+				"username": "Rhiosaurus"
+			},
+			"sent": "2018-03-28T14:04:35.998Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:04:36.164Z",
+			"itemId": "chat",
+			"userId": 14876396,
+			"metadata": {
+				"userId": 14876396,
+				"message": "Guy and Lawrence",
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/default_avatars/Untitled-1_0003_red.png",
+				"interaction": "chat",
+				"username": "bennyshark"
+			},
+			"sent": "2018-03-28T14:04:36.187Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:04:36.615Z",
+			"itemId": "chat",
+			"userId": 13939999,
+			"metadata": {
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/default_avatars/Untitled-1_0002_purple.png",
+				"interaction": "chat",
+				"message": "French fries in that time",
+				"userId": 13939999,
+				"username": "deborahalmada"
+			},
+			"sent": "2018-03-28T14:04:36.641Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:04:37.092Z",
+			"itemId": "chat",
+			"userId": 12977245,
+			"metadata": {
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/a/92/12977245-MFHc29.jpg",
+				"interaction": "chat",
+				"message": "THE ULSTER RUGBY PLAYERS ARE GUILTY",
+				"userId": 12977245,
+				"username": "Deaniasm"
+			},
+			"sent": "2018-03-28T14:04:37.112Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:04:37.721Z",
+			"itemId": "chat",
+			"userId": 13719937,
+			"metadata": {
+				"userId": 13719937,
+				"message": "PAUL SHOALS",
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/default_avatars/Untitled-1_0002_purple.png",
+				"interaction": "chat",
+				"username": "tombisatt"
+			},
+			"sent": "2018-03-28T14:04:37.735Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:04:37.770Z",
+			"itemId": "chat",
+			"userId": 14674207,
+			"metadata": {
+				"userId": 14674207,
+				"message": "SHOUTOUT NEWCASTLE RAIDERS",
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/default_avatars/Untitled-1_0004_gold.png",
+				"interaction": "chat",
+				"username": "plumbs"
+			},
+			"sent": "2018-03-28T14:04:37.803Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:04:38.106Z",
+			"itemId": "chat",
+			"userId": 5367428,
+			"metadata": {
+				"userId": 5367428,
+				"message": "Happy birthday NAthan Happy birthday NAthan",
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/default_avatars/Untitled-1_0003_red.png",
+				"interaction": "chat",
+				"username": "SpicyCJF"
+			},
+			"sent": "2018-03-28T14:04:38.124Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:04:38.318Z",
+			"itemId": "chat",
+			"userId": 12599677,
+			"metadata": {
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/default_avatars/Untitled-1_0000_green.png",
+				"interaction": "chat",
+				"message": "gruel is not a plumber",
+				"userId": 12599677,
+				"username": "ipreferaflan"
+			},
+			"sent": "2018-03-28T14:04:38.334Z"
+		},
+		{
+			"type": "broadcastStats",
+			"ts": "2018-03-28T14:04:38.609Z",
+			"statusMessage": "",
+			"viewerCounts": {
+				"connected": 44537,
+				"playing": 42653,
+				"watching": 1379
+			},
+			"c": 1,
+			"sent": "2018-03-28T14:04:38.649Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:04:38.788Z",
+			"itemId": "chat",
+			"userId": 13421436,
+			"metadata": {
+				"userId": 13421436,
+				"message": "Tdvl",
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/a/64/13421436-L5OZCt.jpg",
+				"interaction": "chat",
+				"username": "ciantooooo"
+			},
+			"sent": "2018-03-28T14:04:38.800Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:04:39.148Z",
+			"itemId": "chat",
+			"userId": 14253985,
+			"metadata": {
+				"userId": 14253985,
+				"message": "Aaron oatel",
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/a/db/14253985-J8ejsa.jpg",
+				"interaction": "chat",
+				"username": "maxsmith"
+			},
+			"sent": "2018-03-28T14:04:39.169Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:04:39.180Z",
+			"itemId": "chat",
+			"userId": 12789504,
+			"metadata": {
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/a/3c/12789504-bSLnc1.jpg",
+				"interaction": "chat",
+				"message": "hi",
+				"userId": 12789504,
+				"username": "bootlegmojo"
+			},
+			"sent": "2018-03-28T14:04:39.194Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:04:39.389Z",
+			"itemId": "chat",
+			"userId": 13284700,
+			"metadata": {
+				"userId": 13284700,
+				"message": "me",
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/default_avatars/Untitled-1_0001_blue.png",
+				"interaction": "chat",
+				"username": "Sanaria1"
+			},
+			"sent": "2018-03-28T14:04:39.411Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:04:39.727Z",
+			"itemId": "chat",
+			"userId": 14073794,
+			"metadata": {
+				"userId": 14073794,
+				"message": "Hoiii",
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/a/24/14073794-2EIDTl.jpg",
+				"interaction": "chat",
+				"username": "char3457"
+			},
+			"sent": "2018-03-28T14:04:39.748Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:04:39.822Z",
+			"itemId": "chat",
+			"userId": 14347849,
+			"metadata": {
+				"userId": 14347849,
+				"message": "Abbey wood",
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/default_avatars/Untitled-1_0003_red.png",
+				"interaction": "chat",
+				"username": "aarongoodwin"
+			},
+			"sent": "2018-03-28T14:04:39.831Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:04:40.113Z",
+			"itemId": "chat",
+			"userId": 14353641,
+			"metadata": {
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/default_avatars/Untitled-1_0003_red.png",
+				"interaction": "chat",
+				"message": "paul shoals",
+				"userId": 14353641,
+				"username": "chronictmt"
+			},
+			"sent": "2018-03-28T14:04:40.140Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:04:40.149Z",
+			"itemId": "chat",
+			"userId": 13308564,
+			"metadata": {
+				"userId": 13308564,
+				"message": "Sup",
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/default_avatars/Untitled-1_0001_blue.png",
+				"interaction": "chat",
+				"username": "MishaNagibator"
+			},
+			"sent": "2018-03-28T14:04:40.165Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:04:40.180Z",
+			"itemId": "chat",
+			"userId": 14877571,
+			"metadata": {
+				"userId": 14877571,
+				"message": "Aaaaa",
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/default_avatars/Untitled-1_0000_green.png",
+				"interaction": "chat",
+				"username": "DeStef"
+			},
+			"sent": "2018-03-28T14:04:40.189Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:04:40.190Z",
+			"itemId": "chat",
+			"userId": 13167244,
+			"metadata": {
+				"userId": 13167244,
+				"message": "ME",
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/default_avatars/Untitled-1_0003_red.png",
+				"interaction": "chat",
+				"username": "emhartle"
+			},
+			"sent": "2018-03-28T14:04:40.215Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:04:40.397Z",
+			"itemId": "chat",
+			"userId": 13821039,
+			"metadata": {
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/default_avatars/Untitled-1_0003_red.png",
+				"interaction": "chat",
+				"message": "swansea",
+				"userId": 13821039,
+				"username": "edenthomas"
+			},
+			"sent": "2018-03-28T14:04:40.418Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:04:40.748Z",
+			"itemId": "chat",
+			"userId": 13425362,
+			"metadata": {
+				"userId": 13425362,
+				"message": "Hey",
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/a/be/13425362-7LTk0L.jpg",
+				"interaction": "chat",
+				"username": "hubator"
+			},
+			"sent": "2018-03-28T14:04:40.775Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:04:40.832Z",
+			"itemId": "chat",
+			"userId": 12728466,
+			"metadata": {
+				"userId": 12728466,
+				"message": "Milly woo",
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/default_avatars/Untitled-1_0003_red.png",
+				"interaction": "chat",
+				"username": "millyla"
+			},
+			"sent": "2018-03-28T14:04:40.857Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:04:41.126Z",
+			"itemId": "chat",
+			"userId": 14069551,
+			"metadata": {
+				"userId": 14069551,
+				"message": "STE CARR",
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/default_avatars/Untitled-1_0003_red.png",
+				"interaction": "chat",
+				"username": "54DGN"
+			},
+			"sent": "2018-03-28T14:04:41.145Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:04:41.159Z",
+			"itemId": "chat",
+			"userId": 14222064,
+			"metadata": {
+				"userId": 14222064,
+				"message": "Heeey",
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/default_avatars/Untitled-1_0004_gold.png",
+				"interaction": "chat",
+				"username": "huseyinsz"
+			},
+			"sent": "2018-03-28T14:04:41.184Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:04:41.190Z",
+			"itemId": "chat",
+			"userId": 14527338,
+			"metadata": {
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/default_avatars/Untitled-1_0004_gold.png",
+				"interaction": "chat",
+				"message": "hello!!!!!",
+				"userId": 14527338,
+				"username": "pablosphotosbro"
+			},
+			"sent": "2018-03-28T14:04:41.209Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:04:41.211Z",
+			"itemId": "chat",
+			"userId": 13365782,
+			"metadata": {
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/default_avatars/Untitled-1_0001_blue.png",
+				"interaction": "chat",
+				"message": "SHOUT OUT",
+				"userId": 13365782,
+				"username": "MikeyA28"
+			},
+			"sent": "2018-03-28T14:04:41.232Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:04:41.421Z",
+			"itemId": "chat",
+			"userId": 14288343,
+			"metadata": {
+				"userId": 14288343,
+				"message": "Saul",
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/a/67/14288343-U8kSsL.jpg",
+				"interaction": "chat",
+				"username": "Saulspursimons"
+			},
+			"sent": "2018-03-28T14:04:41.446Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:04:41.754Z",
+			"itemId": "chat",
+			"userId": 5307824,
+			"metadata": {
+				"userId": 5307824,
+				"message": "Hi",
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/default_avatars/Untitled-1_0003_red.png",
+				"interaction": "chat",
+				"username": "raaya001"
+			},
+			"sent": "2018-03-28T14:04:41.774Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:04:41.839Z",
+			"itemId": "chat",
+			"userId": 12265863,
+			"metadata": {
+				"userId": 12265863,
+				"message": "UNiDAYS",
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/default_avatars/Untitled-1_0000_green.png",
+				"interaction": "chat",
+				"username": "jsssyr"
+			},
+			"sent": "2018-03-28T14:04:41.852Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:04:42.127Z",
+			"itemId": "chat",
+			"userId": 11588195,
+			"metadata": {
+				"userId": 11588195,
+				"message": "Lannyg",
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/default_avatars/Untitled-1_0004_gold.png",
+				"interaction": "chat",
+				"username": "strej1"
+			},
+			"sent": "2018-03-28T14:04:42.143Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:04:42.192Z",
+			"itemId": "chat",
+			"userId": 13131246,
+			"metadata": {
+				"userId": 13131246,
+				"message": "JKHS",
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/a/e8/13131246-tTZThy.jpg",
+				"interaction": "chat",
+				"username": "jakegwilliam"
+			},
+			"sent": "2018-03-28T14:04:42.218Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:04:42.236Z",
+			"itemId": "chat",
+			"userId": 12627044,
+			"metadata": {
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/default_avatars/Untitled-1_0000_green.png",
+				"interaction": "chat",
+				"message": "jam boy",
+				"userId": 12627044,
+				"username": "Aleksi25"
+			},
+			"sent": "2018-03-28T14:04:42.250Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:04:42.763Z",
+			"itemId": "chat",
+			"userId": 14570916,
+			"metadata": {
+				"userId": 14570916,
+				"message": "Hi",
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/default_avatars/Untitled-1_0002_purple.png",
+				"interaction": "chat",
+				"username": "josh112323"
+			},
+			"sent": "2018-03-28T14:04:42.786Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:04:42.860Z",
+			"itemId": "chat",
+			"userId": 14287912,
+			"metadata": {
+				"userId": 14287912,
+				"message": "Charlie from Brighton!!!",
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/default_avatars/Untitled-1_0001_blue.png",
+				"interaction": "chat",
+				"username": "charliehills"
+			},
+			"sent": "2018-03-28T14:04:42.868Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:04:43.155Z",
+			"itemId": "chat",
+			"userId": 14071456,
+			"metadata": {
+				"userId": 14071456,
+				"message": "SHOALS",
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/default_avatars/Untitled-1_0000_green.png",
+				"interaction": "chat",
+				"username": "lozzle112"
+			},
+			"sent": "2018-03-28T14:04:43.179Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:04:43.173Z",
+			"itemId": "chat",
+			"userId": 14528859,
+			"metadata": {
+				"userId": 14528859,
+				"message": "Higi",
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/default_avatars/Untitled-1_0003_red.png",
+				"interaction": "chat",
+				"username": "itallia"
+			},
+			"sent": "2018-03-28T14:04:43.199Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:04:43.199Z",
+			"itemId": "chat",
+			"userId": 14371289,
+			"metadata": {
+				"userId": 14371289,
+				"message": "Say hi to sophie",
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/default_avatars/Untitled-1_0003_red.png",
+				"interaction": "chat",
+				"username": "sophieee7"
+			},
+			"sent": "2018-03-28T14:04:43.225Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:04:43.248Z",
+			"itemId": "chat",
+			"userId": 14000088,
+			"metadata": {
+				"userId": 14000088,
+				"message": "John Stones",
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/default_avatars/Untitled-1_0001_blue.png",
+				"interaction": "chat",
+				"username": "georgefry19"
+			},
+			"sent": "2018-03-28T14:04:43.264Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:04:43.443Z",
+			"itemId": "chat",
+			"userId": 13283068,
+			"metadata": {
+				"userId": 13283068,
+				"message": "Matt",
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/default_avatars/Untitled-1_0002_purple.png",
+				"interaction": "chat",
+				"username": "MSM96"
+			},
+			"sent": "2018-03-28T14:04:43.469Z"
+		},
+		{
+			"type": "broadcastStats",
+			"ts": "2018-03-28T14:04:43.665Z",
+			"statusMessage": "",
+			"viewerCounts": {
+				"connected": 44470,
+				"playing": 42653,
+				"watching": 1290
+			},
+			"c": 2,
+			"sent": "2018-03-28T14:04:43.718Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:04:43.763Z",
+			"itemId": "chat",
+			"userId": 14159663,
+			"metadata": {
+				"userId": 14159663,
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/default_avatars/Untitled-1_0004_gold.png",
+				"username": "larrygogan",
+				"message": "IRA IRA IRA IRA",
+				"interaction": "chat"
+			},
+			"sent": "2018-03-28T14:04:43.772Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:04:44.158Z",
+			"itemId": "chat",
+			"userId": 13793816,
+			"metadata": {
+				"userId": 13793816,
+				"message": "BGTTTTT TEAM",
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/default_avatars/Untitled-1_0000_green.png",
+				"interaction": "chat",
+				"username": "jazzychap"
+			},
+			"sent": "2018-03-28T14:04:44.176Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:04:44.181Z",
+			"itemId": "chat",
+			"userId": 12968559,
+			"metadata": {
+				"userId": 12968559,
+				"message": "Shout out BDC",
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/a/bd/12968559-hgbTgC.jpg",
+				"interaction": "chat",
+				"username": "CharlieJDunn"
+			},
+			"sent": "2018-03-28T14:04:44.201Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:04:44.460Z",
+			"itemId": "chat",
+			"userId": 14785882,
+			"metadata": {
+				"userId": 14785882,
+				"message": "Hi",
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/default_avatars/Untitled-1_0003_red.png",
+				"interaction": "chat",
+				"username": "Lukew1995"
+			},
+			"sent": "2018-03-28T14:04:44.480Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:04:45.179Z",
+			"itemId": "chat",
+			"userId": 13686838,
+			"metadata": {
+				"userId": 13686838,
+				"message": "Me",
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/a/cb/13686838-nnrgw0.jpg",
+				"interaction": "chat",
+				"username": "mell0kehl"
+			},
+			"sent": "2018-03-28T14:04:45.202Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:04:45.205Z",
+			"itemId": "chat",
+			"userId": 14348811,
+			"metadata": {
+				"userId": 14348811,
+				"message": "😈😈😈😈😈😈👅👅👅👅",
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/default_avatars/Untitled-1_0004_gold.png",
+				"interaction": "chat",
+				"username": "bigbadash"
+			},
+			"sent": "2018-03-28T14:04:45.226Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:04:45.230Z",
+			"itemId": "chat",
+			"userId": 11166134,
+			"metadata": {
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/default_avatars/Untitled-1_0002_purple.png",
+				"interaction": "chat",
+				"message": "willian?",
+				"userId": 11166134,
+				"username": "tomcarpenter"
+			},
+			"sent": "2018-03-28T14:04:45.261Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:04:45.260Z",
+			"itemId": "chat",
+			"userId": 12752578,
+			"metadata": {
+				"userId": 12752578,
+				"message": "Tasmin leicester",
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/default_avatars/Untitled-1_0003_red.png",
+				"interaction": "chat",
+				"username": "tazzietas"
+			},
+			"sent": "2018-03-28T14:04:45.281Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:04:45.779Z",
+			"itemId": "chat",
+			"userId": 11970112,
+			"metadata": {
+				"userId": 11970112,
+				"message": "Leicester toria",
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/default_avatars/Untitled-1_0002_purple.png",
+				"interaction": "chat",
+				"username": "toria97"
+			},
+			"sent": "2018-03-28T14:04:45.801Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:04:45.886Z",
+			"itemId": "chat",
+			"userId": 14020957,
+			"metadata": {
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/default_avatars/Untitled-1_0002_purple.png",
+				"interaction": "chat",
+				"message": "hamid u theif",
+				"userId": 14020957,
+				"username": "mamad97"
+			},
+			"sent": "2018-03-28T14:04:45.906Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:04:46.182Z",
+			"itemId": "chat",
+			"userId": 14431149,
+			"metadata": {
+				"userId": 14431149,
+				"message": "Shout out durty nellys",
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/default_avatars/Untitled-1_0004_gold.png",
+				"interaction": "chat",
+				"username": "josephbryant97"
+			},
+			"sent": "2018-03-28T14:04:46.193Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:04:46.211Z",
+			"itemId": "chat",
+			"userId": 14681897,
+			"metadata": {
+				"userId": 14681897,
+				"message": "SHOUTOUT TO PRAGUE",
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/a/a0/14681897-i2ReM8.jpg",
+				"interaction": "chat",
+				"username": "lucymerrick"
+			},
+			"sent": "2018-03-28T14:04:46.239Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:04:46.241Z",
+			"itemId": "chat",
+			"userId": 14348625,
+			"metadata": {
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/a/04/14348625-ZMEf9c.jpg",
+				"interaction": "chat",
+				"message": "shouyout lavib",
+				"userId": 14348625,
+				"username": "dunple123"
+			},
+			"sent": "2018-03-28T14:04:46.258Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:04:47.184Z",
+			"itemId": "chat",
+			"userId": 9134268,
+			"metadata": {
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/a/ec/9134268-1Rbv9r.jpg",
+				"interaction": "chat",
+				"message": "big up Plymouth",
+				"userId": 9134268,
+				"username": "Echo Calibre"
+			},
+			"sent": "2018-03-28T14:04:47.198Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:04:47.282Z",
+			"itemId": "chat",
+			"userId": 13961555,
+			"metadata": {
+				"userId": 13961555,
+				"message": "Sterling",
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/default_avatars/Untitled-1_0002_purple.png",
+				"interaction": "chat",
+				"username": "stevedobson1"
+			},
+			"sent": "2018-03-28T14:04:47.304Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:04:47.303Z",
+			"itemId": "chat",
+			"userId": 12296692,
+			"metadata": {
+				"userId": 12296692,
+				"message": "Oi oi",
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/a/b3/12296692-c7jdhW.jpg",
+				"interaction": "chat",
+				"username": "nathan.clapperton"
+			},
+			"sent": "2018-03-28T14:04:47.328Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:04:47.541Z",
+			"itemId": "chat",
+			"userId": 13895581,
+			"metadata": {
+				"userId": 13895581,
+				"message": "Hi nuggets",
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/a/33/13895581-FdMbNi.jpg",
+				"interaction": "chat",
+				"username": "ImCharlie123"
+			},
+			"sent": "2018-03-28T14:04:47.567Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:04:47.836Z",
+			"itemId": "chat",
+			"userId": 13224601,
+			"metadata": {
+				"userId": 13224601,
+				"message": "Lawrence is a wetty",
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/default_avatars/Untitled-1_0000_green.png",
+				"interaction": "chat",
+				"username": "domjenkins"
+			},
+			"sent": "2018-03-28T14:04:47.856Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:04:47.916Z",
+			"itemId": "chat",
+			"userId": 13226218,
+			"metadata": {
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/default_avatars/Untitled-1_0000_green.png",
+				"interaction": "chat",
+				"message": "gajan",
+				"userId": 13226218,
+				"username": "gajang"
+			},
+			"sent": "2018-03-28T14:04:47.919Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:04:48.203Z",
+			"itemId": "chat",
+			"userId": 12987299,
+			"metadata": {
+				"userId": 12987299,
+				"message": "Paul shoals",
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/default_avatars/Untitled-1_0003_red.png",
+				"interaction": "chat",
+				"username": "samhills"
+			},
+			"sent": "2018-03-28T14:04:48.223Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:04:48.232Z",
+			"itemId": "chat",
+			"userId": 11165831,
+			"metadata": {
+				"userId": 11165831,
+				"message": "Shout me out",
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/default_avatars/Untitled-1_0004_gold.png",
+				"interaction": "chat",
+				"username": "Boycey11"
+			},
+			"sent": "2018-03-28T14:04:48.252Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:04:48.292Z",
+			"itemId": "chat",
+			"userId": 13425362,
+			"metadata": {
+				"userId": 13425362,
+				"message": "iOS ahlskjr",
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/a/be/13425362-7LTk0L.jpg",
+				"interaction": "chat",
+				"username": "hubator"
+			},
+			"sent": "2018-03-28T14:04:48.317Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:04:48.333Z",
+			"itemId": "chat",
+			"userId": 14144564,
+			"metadata": {
+				"userId": 14144564,
+				"message": "🐢🐢🐢🐢🐢🐢",
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/a/51/14144564-zsUZL1.jpg",
+				"interaction": "chat",
+				"username": "portiagabrielle"
+			},
+			"sent": "2018-03-28T14:04:48.357Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:04:48.554Z",
+			"itemId": "chat",
+			"userId": 14246141,
+			"metadata": {
+				"userId": 14246141,
+				"message": "Hi",
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/default_avatars/Untitled-1_0002_purple.png",
+				"interaction": "chat",
+				"username": "myamayhew"
+			},
+			"sent": "2018-03-28T14:04:48.576Z"
+		},
+		{
+			"type": "broadcastStats",
+			"ts": "2018-03-28T14:04:48.720Z",
+			"statusMessage": "",
+			"viewerCounts": {
+				"connected": 44401,
+				"playing": 42653,
+				"watching": 1223
+			},
+			"c": 3,
+			"sent": "2018-03-28T14:04:48.761Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:04:48.842Z",
+			"itemId": "chat",
+			"userId": 14817214,
+			"metadata": {
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/default_avatars/Untitled-1_0003_red.png",
+				"interaction": "chat",
+				"message": "shoutout Frank Street house!!!!!",
+				"userId": 14817214,
+				"username": "laurarvc"
+			},
+			"sent": "2018-03-28T14:04:48.870Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:04:48.930Z",
+			"itemId": "chat",
+			"userId": 14673492,
+			"metadata": {
+				"userId": 14673492,
+				"message": "Shout out to Dipesh playing for the first time",
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/default_avatars/Untitled-1_0002_purple.png",
+				"interaction": "chat",
+				"username": "SteffiDavies"
+			},
+			"sent": "2018-03-28T14:04:48.950Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:04:49.204Z",
+			"itemId": "chat",
+			"userId": 14527338,
+			"metadata": {
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/default_avatars/Untitled-1_0004_gold.png",
+				"interaction": "chat",
+				"message": "@PABLOSPHOTOS",
+				"userId": 14527338,
+				"username": "pablosphotosbro"
+			},
+			"sent": "2018-03-28T14:04:49.226Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:04:49.237Z",
+			"itemId": "chat",
+			"userId": 14288817,
+			"metadata": {
+				"userId": 14288817,
+				"message": "🇮🇪🇮🇪🇮🇪🇮🇪🇮🇪🇮🇪",
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/default_avatars/Untitled-1_0002_purple.png",
+				"interaction": "chat",
+				"username": "frizzybrokly"
+			},
+			"sent": "2018-03-28T14:04:49.259Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:04:49.298Z",
+			"itemId": "chat",
+			"userId": 13282939,
+			"metadata": {
+				"userId": 13282939,
+				"message": "Eamonn is a plumber",
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/default_avatars/Untitled-1_0002_purple.png",
+				"interaction": "chat",
+				"username": "JaRooneyNo1Fan"
+			},
+			"sent": "2018-03-28T14:04:49.401Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:04:49.338Z",
+			"itemId": "chat",
+			"userId": 13518772,
+			"metadata": {
+				"userId": 13518772,
+				"message": "Jonas",
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/default_avatars/Untitled-1_0002_purple.png",
+				"interaction": "chat",
+				"username": "jsjg96"
+			},
+			"sent": "2018-03-28T14:04:49.414Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:04:49.939Z",
+			"itemId": "chat",
+			"userId": 12119792,
+			"metadata": {
+				"userId": 12119792,
+				"message": "Shout me out",
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/default_avatars/Untitled-1_0004_gold.png",
+				"interaction": "chat",
+				"username": "sharer"
+			},
+			"sent": "2018-03-28T14:04:49.960Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:04:50.213Z",
+			"itemId": "chat",
+			"userId": 12673909,
+			"metadata": {
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/default_avatars/Untitled-1_0003_red.png",
+				"interaction": "chat",
+				"message": "Nathan corkery shoutout",
+				"userId": 12673909,
+				"username": "RMinors"
+			},
+			"sent": "2018-03-28T14:04:50.227Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:04:50.264Z",
+			"itemId": "chat",
+			"userId": 12970822,
+			"metadata": {
+				"userId": 12970822,
+				"message": "I like tot",
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/default_avatars/Untitled-1_0003_red.png",
+				"interaction": "chat",
+				"username": "freyaandreae"
+			},
+			"sent": "2018-03-28T14:04:50.274Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:04:50.369Z",
+			"itemId": "chat",
+			"userId": 13730295,
+			"metadata": {
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/default_avatars/Untitled-1_0004_gold.png",
+				"interaction": "chat",
+				"message": "Toby 1st time",
+				"userId": 13730295,
+				"username": "toblerone94"
+			},
+			"sent": "2018-03-28T14:04:50.390Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:04:50.556Z",
+			"itemId": "chat",
+			"userId": 12220905,
+			"metadata": {
+				"userId": 12220905,
+				"message": "SAUCY MINX",
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/default_avatars/Untitled-1_0002_purple.png",
+				"interaction": "chat",
+				"username": "sunnybadwal"
+			},
+			"sent": "2018-03-28T14:04:50.577Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:04:50.885Z",
+			"itemId": "chat",
+			"userId": 14135796,
+			"metadata": {
+				"userId": 14135796,
+				"message": "🐢🐢",
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/a/6b/14135796-bcEO34.jpg",
+				"interaction": "chat",
+				"username": "melpretty"
+			},
+			"sent": "2018-03-28T14:04:50.906Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:04:51.233Z",
+			"itemId": "chat",
+			"userId": 10729522,
+			"metadata": {
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/default_avatars/Untitled-1_0003_red.png",
+				"interaction": "chat",
+				"message": "shoutout",
+				"userId": 10729522,
+				"username": "aplis"
+			},
+			"sent": "2018-03-28T14:04:51.260Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:04:51.372Z",
+			"itemId": "chat",
+			"userId": 14785300,
+			"metadata": {
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/default_avatars/Untitled-1_0003_red.png",
+				"interaction": "chat",
+				"message": "yeeeet",
+				"userId": 14785300,
+				"username": "IIINeonIII"
+			},
+			"sent": "2018-03-28T14:04:51.397Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:04:51.448Z",
+			"itemId": "chat",
+			"userId": 13686838,
+			"metadata": {
+				"userId": 13686838,
+				"message": "Mmu",
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/a/cb/13686838-nnrgw0.jpg",
+				"interaction": "chat",
+				"username": "mell0kehl"
+			},
+			"sent": "2018-03-28T14:04:51.475Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:04:51.579Z",
+			"itemId": "chat",
+			"userId": 11252196,
+			"metadata": {
+				"userId": 11252196,
+				"message": "I’m from Ireland",
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/default_avatars/Untitled-1_0003_red.png",
+				"interaction": "chat",
+				"username": "Dardo04"
+			},
+			"sent": "2018-03-28T14:04:51.605Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:04:51.910Z",
+			"itemId": "chat",
+			"userId": 14414374,
+			"metadata": {
+				"userId": 14414374,
+				"message": "🇬🇧🇬🇧🇬🇧🇬🇧🇬🇧",
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/default_avatars/Untitled-1_0003_red.png",
+				"interaction": "chat",
+				"username": "Heasley28"
+			},
+			"sent": "2018-03-28T14:04:51.915Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:04:51.995Z",
+			"itemId": "chat",
+			"userId": 13686547,
+			"metadata": {
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/a/fe/13686547-BJ4jFZ.jpg",
+				"interaction": "chat",
+				"message": "naughty girl",
+				"userId": 13686547,
+				"username": "PM21BC"
+			},
+			"sent": "2018-03-28T14:04:52.021Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:04:52.247Z",
+			"itemId": "chat",
+			"userId": 13301470,
+			"metadata": {
+				"userId": 13301470,
+				"message": "I’ll eat your hamster",
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/default_avatars/Untitled-1_0001_blue.png",
+				"interaction": "chat",
+				"username": "DanReader"
+			},
+			"sent": "2018-03-28T14:04:52.264Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:04:52.299Z",
+			"itemId": "chat",
+			"userId": 14784349,
+			"metadata": {
+				"userId": 14784349,
+				"message": "SHOUTOUT TO DISNEY CHANNEL TEAM",
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/a/ae/14784349-WD6ynK.jpg",
+				"interaction": "chat",
+				"username": "sidneylaw"
+			},
+			"sent": "2018-03-28T14:04:52.315Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:04:52.479Z",
+			"itemId": "chat",
+			"userId": 14135343,
+			"metadata": {
+				"userId": 14135343,
+				"message": "Heyyheyyi",
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/a/4d/14135343-zspHPc.jpg",
+				"interaction": "chat",
+				"username": "asyaxox"
+			},
+			"sent": "2018-03-28T14:04:52.496Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:04:52.606Z",
+			"itemId": "chat",
+			"userId": 13362440,
+			"metadata": {
+				"userId": 13362440,
+				"message": "Hello Morgan and ross",
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/default_avatars/Untitled-1_0004_gold.png",
+				"interaction": "chat",
+				"username": "Kyleep123"
+			},
+			"sent": "2018-03-28T14:04:52.627Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:04:52.912Z",
+			"itemId": "chat",
+			"userId": 14878046,
+			"metadata": {
+				"userId": 14878046,
+				"message": "Oh",
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/default_avatars/Untitled-1_0003_red.png",
+				"interaction": "chat",
+				"username": "Labbetts"
+			},
+			"sent": "2018-03-28T14:04:52.932Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:04:53.252Z",
+			"itemId": "chat",
+			"userId": 13215603,
+			"metadata": {
+				"userId": 13215603,
+				"message": "O",
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/default_avatars/Untitled-1_0002_purple.png",
+				"interaction": "chat",
+				"username": "Bhav18"
+			},
+			"sent": "2018-03-28T14:04:53.272Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:04:53.503Z",
+			"itemId": "chat",
+			"userId": 14674618,
+			"metadata": {
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/a/32/14674618-Rs4dNZ.jpg",
+				"interaction": "chat",
+				"message": "big veej",
+				"userId": 14674618,
+				"username": "bigv33j"
+			},
+			"sent": "2018-03-28T14:04:53.523Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:04:53.613Z",
+			"itemId": "chat",
+			"userId": 11587372,
+			"metadata": {
+				"userId": 11587372,
+				"message": "Where is Charlie",
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/default_avatars/Untitled-1_0002_purple.png",
+				"interaction": "chat",
+				"username": "djoey1"
+			},
+			"sent": "2018-03-28T14:04:53.633Z"
+		},
+		{
+			"type": "broadcastStats",
+			"ts": "2018-03-28T14:04:53.774Z",
+			"statusMessage": "",
+			"viewerCounts": {
+				"connected": 44326,
+				"playing": 42653,
+				"watching": 1148
+			},
+			"c": 4,
+			"sent": "2018-03-28T14:04:53.819Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:04:54.060Z",
+			"itemId": "chat",
+			"userId": 12693947,
+			"metadata": {
+				"userId": 12693947,
+				"message": "Hi guys",
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/default_avatars/Untitled-1_0000_green.png",
+				"interaction": "chat",
+				"username": "shaannooonnnn"
+			},
+			"sent": "2018-03-28T14:04:54.083Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:04:54.308Z",
+			"itemId": "chat",
+			"userId": 12277957,
+			"metadata": {
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/a/54/12277957-35lTOb.jpg",
+				"interaction": "chat",
+				"message": "itv is terrible",
+				"userId": 12277957,
+				"username": "vohnmann"
+			},
+			"sent": "2018-03-28T14:04:54.330Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:04:54.401Z",
+			"itemId": "chat",
+			"userId": 13685969,
+			"metadata": {
+				"userId": 13685969,
+				"message": "SPARKLY",
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/default_avatars/Untitled-1_0004_gold.png",
+				"interaction": "chat",
+				"username": "kworbs"
+			},
+			"sent": "2018-03-28T14:04:54.415Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:04:54.520Z",
+			"itemId": "chat",
+			"userId": 13793518,
+			"metadata": {
+				"userId": 13793518,
+				"message": "ASTON RULEZZZZZ",
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/default_avatars/Untitled-1_0003_red.png",
+				"interaction": "chat",
+				"username": "roshnishah1"
+			},
+			"sent": "2018-03-28T14:04:54.541Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:04:54.621Z",
+			"itemId": "chat",
+			"userId": 13955892,
+			"metadata": {
+				"userId": 13955892,
+				"message": "Sup",
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/a/01/13955892-YU6XPS.jpg",
+				"interaction": "chat",
+				"username": "TommyS."
+			},
+			"sent": "2018-03-28T14:04:54.646Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:04:54.958Z",
+			"itemId": "chat",
+			"userId": 13349405,
+			"metadata": {
+				"userId": 13349405,
+				"message": "Sam pattinson",
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/a/2e/13349405-HlyKea.jpg",
+				"interaction": "chat",
+				"username": "henrystevo"
+			},
+			"sent": "2018-03-28T14:04:54.978Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:04:55.258Z",
+			"itemId": "chat",
+			"userId": 13160149,
+			"metadata": {
+				"userId": 13160149,
+				"message": "Kukujiao",
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/default_avatars/Untitled-1_0002_purple.png",
+				"interaction": "chat",
+				"username": "chris.cher"
+			},
+			"sent": "2018-03-28T14:04:55.278Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:04:55.326Z",
+			"itemId": "chat",
+			"userId": 13522387,
+			"metadata": {
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/default_avatars/Untitled-1_0003_red.png",
+				"interaction": "chat",
+				"message": "shout me out salford",
+				"userId": 13522387,
+				"username": "Chaz18"
+			},
+			"sent": "2018-03-28T14:04:55.346Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:04:55.402Z",
+			"itemId": "chat",
+			"userId": 12119550,
+			"metadata": {
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/default_avatars/Untitled-1_0003_red.png",
+				"interaction": "chat",
+				"message": "shoutout to longdean",
+				"userId": 12119550,
+				"username": "adamguitonn"
+			},
+			"sent": "2018-03-28T14:04:55.412Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:04:55.574Z",
+			"itemId": "chat",
+			"userId": 14001414,
+			"metadata": {
+				"userId": 14001414,
+				"message": "PILK !",
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/a/42/14001414-7L1Qxt.jpg",
+				"interaction": "chat",
+				"username": "UncleBen177"
+			},
+			"sent": "2018-03-28T14:04:55.603Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:04:55.627Z",
+			"itemId": "chat",
+			"userId": 14019124,
+			"metadata": {
+				"userId": 14019124,
+				"message": "Kristi",
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/default_avatars/Untitled-1_0004_gold.png",
+				"interaction": "chat",
+				"username": "stevenh12464"
+			},
+			"sent": "2018-03-28T14:04:55.644Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:04:56.087Z",
+			"itemId": "chat",
+			"userId": 8774766,
+			"metadata": {
+				"userId": 8774766,
+				"message": "THEY BOUGHT HIS FLIGHT",
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/default_avatars/Untitled-1_0003_red.png",
+				"interaction": "chat",
+				"username": "louisgw"
+			},
+			"sent": "2018-03-28T14:04:56.109Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:04:56.263Z",
+			"itemId": "chat",
+			"userId": 12025553,
+			"metadata": {
+				"userId": 12025553,
+				"message": "FTPPPP",
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/a/ad/12025553-hZJZ3E.jpg",
+				"interaction": "chat",
+				"username": "Yoowan"
+			},
+			"sent": "2018-03-28T14:04:56.285Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:04:56.336Z",
+			"itemId": "chat",
+			"userId": 13872017,
+			"metadata": {
+				"userId": 13872017,
+				"message": "Lozzaaaaaaa",
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/default_avatars/Untitled-1_0002_purple.png",
+				"interaction": "chat",
+				"username": "jesscookx"
+			},
+			"sent": "2018-03-28T14:04:56.354Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:04:56.584Z",
+			"itemId": "chat",
+			"userId": 14347811,
+			"metadata": {
+				"userId": 14347811,
+				"message": "Plymouthhhhh",
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/default_avatars/Untitled-1_0000_green.png",
+				"interaction": "chat",
+				"username": "willwatt123"
+			},
+			"sent": "2018-03-28T14:04:56.593Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:04:56.674Z",
+			"itemId": "chat",
+			"userId": 14877941,
+			"metadata": {
+				"userId": 14877941,
+				"message": "Yo yo",
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/default_avatars/Untitled-1_0001_blue.png",
+				"interaction": "chat",
+				"username": "alyshazs"
+			},
+			"sent": "2018-03-28T14:04:56.692Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:04:57.265Z",
+			"itemId": "chat",
+			"userId": 14790708,
+			"metadata": {
+				"userId": 14790708,
+				"message": "SHOUTOUT ROWAN THE ONLY PERSON FROM WALES HERE",
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/a/9b/14790708-79KUmZ.jpg",
+				"interaction": "chat",
+				"username": "rawlingss"
+			},
+			"sent": "2018-03-28T14:04:57.285Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:04:57.336Z",
+			"itemId": "chat",
+			"userId": 13365782,
+			"metadata": {
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/default_avatars/Untitled-1_0001_blue.png",
+				"interaction": "chat",
+				"message": "TILTED TOWERS",
+				"userId": 13365782,
+				"username": "MikeyA28"
+			},
+			"sent": "2018-03-28T14:04:57.366Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:04:57.428Z",
+			"itemId": "chat",
+			"userId": 14702178,
+			"metadata": {
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/default_avatars/Untitled-1_0004_gold.png",
+				"interaction": "chat",
+				"message": "bin it",
+				"userId": 14702178,
+				"username": "jojowheatley"
+			},
+			"sent": "2018-03-28T14:04:57.453Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:04:57.629Z",
+			"itemId": "chat",
+			"userId": 13935319,
+			"metadata": {
+				"userId": 13935319,
+				"message": "Go on denz",
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/default_avatars/Untitled-1_0003_red.png",
+				"interaction": "chat",
+				"username": "LeoAcky"
+			},
+			"sent": "2018-03-28T14:04:57.645Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:04:57.681Z",
+			"itemId": "chat",
+			"userId": 12847845,
+			"metadata": {
+				"userId": 12847845,
+				"message": "Justin",
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/default_avatars/Untitled-1_0001_blue.png",
+				"interaction": "chat",
+				"username": "tammm111"
+			},
+			"sent": "2018-03-28T14:04:57.702Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:04:58.000Z",
+			"itemId": "chat",
+			"userId": 14464661,
+			"metadata": {
+				"userId": 14464661,
+				"message": "ST MYRUAS",
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/default_avatars/Untitled-1_0003_red.png",
+				"interaction": "chat",
+				"username": "D Stafford"
+			},
+			"sent": "2018-03-28T14:04:58.014Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:04:58.145Z",
+			"itemId": "chat",
+			"userId": 11655417,
+			"metadata": {
+				"userId": 11655417,
+				"message": "Durham",
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/a/51/11655417-muS3Cs.jpg",
+				"interaction": "chat",
+				"username": "KyleBlackman6"
+			},
+			"sent": "2018-03-28T14:04:58.174Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:04:58.433Z",
+			"itemId": "chat",
+			"userId": 14287480,
+			"metadata": {
+				"userId": 14287480,
+				"message": "Chelsea",
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/default_avatars/Untitled-1_0000_green.png",
+				"interaction": "chat",
+				"username": "clraff"
+			},
+			"sent": "2018-03-28T14:04:58.451Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:04:58.644Z",
+			"itemId": "chat",
+			"userId": 12336189,
+			"metadata": {
+				"userId": 12336189,
+				"message": "Shout out Queensbridge!",
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/default_avatars/Untitled-1_0002_purple.png",
+				"interaction": "chat",
+				"username": "scottfrog"
+			},
+			"sent": "2018-03-28T14:04:58.664Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:04:58.769Z",
+			"itemId": "chat",
+			"userId": 9178715,
+			"metadata": {
+				"userId": 9178715,
+				"message": "Swear she makes names up",
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/default_avatars/Untitled-1_0003_red.png",
+				"interaction": "chat",
+				"username": "annamorphi"
+			},
+			"sent": "2018-03-28T14:04:58.792Z"
+		},
+		{
+			"type": "broadcastStats",
+			"ts": "2018-03-28T14:04:58.829Z",
+			"statusMessage": "",
+			"viewerCounts": {
+				"connected": 44278,
+				"playing": 42653,
+				"watching": 1108
+			},
+			"c": 5,
+			"sent": "2018-03-28T14:04:58.878Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:04:59.003Z",
+			"itemId": "chat",
+			"userId": 14790782,
+			"metadata": {
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/default_avatars/Untitled-1_0004_gold.png",
+				"interaction": "chat",
+				"message": "irrelevant",
+				"userId": 14790782,
+				"username": "timtamtomtum"
+			},
+			"sent": "2018-03-28T14:04:59.024Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:04:59.164Z",
+			"itemId": "chat",
+			"userId": 14877826,
+			"metadata": {
+				"userId": 14877826,
+				"message": "Love you",
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/default_avatars/Untitled-1_0001_blue.png",
+				"interaction": "chat",
+				"username": "SimplyAdzy"
+			},
+			"sent": "2018-03-28T14:04:59.179Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:04:59.444Z",
+			"itemId": "chat",
+			"userId": 10725784,
+			"metadata": {
+				"userId": 10725784,
+				"message": "Hurry up I’m using data here",
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/a/30/10725784-HjWoIb.jpg",
+				"interaction": "chat",
+				"username": "afcxveteran"
+			},
+			"sent": "2018-03-28T14:04:59.459Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:04:59.644Z",
+			"itemId": "chat",
+			"userId": 10728944,
+			"metadata": {
+				"userId": 10728944,
+				"message": "ISLE OF MAN 🇮🇲🇮🇲🇮🇲🇮🇲🇮🇲",
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/a/f5/10728944-Xhkryg.jpg",
+				"interaction": "chat",
+				"username": "chloeiom"
+			},
+			"sent": "2018-03-28T14:04:59.666Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:04:59.799Z",
+			"itemId": "chat",
+			"userId": 13724765,
+			"metadata": {
+				"userId": 13724765,
+				"message": "Hi Sam perrry",
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/default_avatars/Untitled-1_0003_red.png",
+				"interaction": "chat",
+				"username": "joeshenton"
+			},
+			"sent": "2018-03-28T14:04:59.809Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:05:00.031Z",
+			"itemId": "chat",
+			"userId": 14571018,
+			"metadata": {
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/a/5d/14571018-m1CRo3.jpg",
+				"interaction": "chat",
+				"message": "hi paul",
+				"userId": 14571018,
+				"username": "covex"
+			},
+			"sent": "2018-03-28T14:05:00.059Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:05:00.196Z",
+			"itemId": "chat",
+			"userId": 14877691,
+			"metadata": {
+				"userId": 14877691,
+				"message": "Sausage kenn",
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/default_avatars/Untitled-1_0004_gold.png",
+				"interaction": "chat",
+				"username": "Samthesausage"
+			},
+			"sent": "2018-03-28T14:05:00.223Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:05:00.481Z",
+			"itemId": "chat",
+			"userId": 12495110,
+			"metadata": {
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/default_avatars/Untitled-1_0001_blue.png",
+				"interaction": "chat",
+				"message": "Suzanne is a lesbo",
+				"userId": 12495110,
+				"username": "smurray1996"
+			},
+			"sent": "2018-03-28T14:05:00.495Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:05:00.658Z",
+			"itemId": "chat",
+			"userId": 14569366,
+			"metadata": {
+				"userId": 14569366,
+				"message": "Slug",
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/default_avatars/Untitled-1_0000_green.png",
+				"interaction": "chat",
+				"username": "WigBilly "
+			},
+			"sent": "2018-03-28T14:05:00.674Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:05:00.806Z",
+			"itemId": "chat",
+			"userId": 14803645,
+			"metadata": {
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/a/bd/14803645-nhhTy1.jpg",
+				"interaction": "chat",
+				"message": "come on",
+				"userId": 14803645,
+				"username": "Lewis137"
+			},
+			"sent": "2018-03-28T14:05:00.833Z"
+		},
+		{
+			"type": "question",
+			"ts": "2018-03-28T14:05:01.264Z",
+			"totalTimeMs": 10000,
+			"timeLeftMs": 10000,
+			"questionId": 32492,
+			"question": "Which sport hosts two teams and seven players mounted on broomsticks?",
+			"category": "Sports",
+			"answers": [
+				{
+					"answerId": 99511,
+					"text": "Kabaddi"
+				},
+				{
+					"answerId": 99512,
+					"text": "Netball"
+				},
+				{
+					"answerId": 99513,
+					"text": "Quidditch"
+				}
+			],
+			"questionNumber": 3,
+			"questionCount": 12,
+			"askTime": "2018-03-28T14:05:01.264Z",
+			"c": 6,
+			"sent": "2018-03-28T14:05:01.329Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:05:01.332Z",
+			"itemId": "chat",
+			"userId": 12225768,
+			"metadata": {
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/default_avatars/Untitled-1_0001_blue.png",
+				"interaction": "chat",
+				"message": "me in houae",
+				"userId": 12225768,
+				"username": "reb1783"
+			},
+			"sent": "2018-03-28T14:05:01.353Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:05:01.484Z",
+			"itemId": "chat",
+			"userId": 14019487,
+			"metadata": {
+				"userId": 14019487,
+				"message": "James Tatton is rubbish",
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/default_avatars/Untitled-1_0000_green.png",
+				"interaction": "chat",
+				"username": "dryden611"
+			},
+			"sent": "2018-03-28T14:05:01.506Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:05:01.672Z",
+			"itemId": "chat",
+			"userId": 14520712,
+			"metadata": {
+				"userId": 14520712,
+				"message": "THOMAS PYLE",
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/a/0d/14520712-91pGjB.jpg",
+				"interaction": "chat",
+				"username": "Sophalice"
+			},
+			"sent": "2018-03-28T14:05:01.694Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:05:01.825Z",
+			"itemId": "chat",
+			"userId": 14019440,
+			"metadata": {
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/default_avatars/Untitled-1_0001_blue.png",
+				"interaction": "chat",
+				"message": "up the ra",
+				"userId": 14019440,
+				"username": "pfire99"
+			},
+			"sent": "2018-03-28T14:05:01.857Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:05:02.177Z",
+			"itemId": "chat",
+			"userId": 14703272,
+			"metadata": {
+				"userId": 14703272,
+				"message": "Gman",
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/default_avatars/Untitled-1_0004_gold.png",
+				"interaction": "chat",
+				"username": "gbald"
+			},
+			"sent": "2018-03-28T14:05:02.199Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:05:02.342Z",
+			"itemId": "chat",
+			"userId": 11244912,
+			"metadata": {
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/default_avatars/Untitled-1_0003_red.png",
+				"interaction": "chat",
+				"message": "marc bowen hi from ireland",
+				"userId": 11244912,
+				"username": "marcsbowen"
+			},
+			"sent": "2018-03-28T14:05:02.362Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:05:02.393Z",
+			"itemId": "chat",
+			"userId": 14019905,
+			"metadata": {
+				"userId": 14019905,
+				"message": "🐙🐙",
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/default_avatars/Untitled-1_0003_red.png",
+				"interaction": "chat",
+				"username": "Kitinka"
+			},
+			"sent": "2018-03-28T14:05:02.412Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:05:02.507Z",
+			"itemId": "chat",
+			"userId": 12848369,
+			"metadata": {
+				"userId": 12848369,
+				"message": "🇬🇧🇬🇧🇬🇧🇬🇧🇬🇧🇬🇧🇬🇧🇬🇧🇬🇧🇬🇧",
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/default_avatars/Untitled-1_0003_red.png",
+				"interaction": "chat",
+				"username": "gates173"
+			},
+			"sent": "2018-03-28T14:05:02.535Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:05:02.841Z",
+			"itemId": "chat",
+			"userId": 13966007,
+			"metadata": {
+				"userId": 13966007,
+				"message": "I would stick it in",
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/a/31/13966007-M6mmNI.jpg",
+				"interaction": "chat",
+				"username": "dylanblair"
+			},
+			"sent": "2018-03-28T14:05:02.859Z"
+		},
+		{
+			"type": "interaction",
+			"ts": "2018-03-28T14:05:03.180Z",
+			"itemId": "chat",
+			"userId": 14821965,
+			"metadata": {
+				"userId": 14821965,
+				"message": "Hiiii",
+				"avatarUrl": "https://d2xu1hdomh3nrx.cloudfront.net/72x72/default_avatars/Untitled-1_0003_red.png",
+				"interaction": "chat",
+				"username": "senali "
+			},
+			"sent": "2018-03-28T14:05:03.197Z"
+		},
+		{
+			"type": "broadcastEnded",
+			"ts": "2018-03-28T14:05:03.719Z",
+			"reason": "You are no longer in the game. Please join again.",
+			"sent": "2018-03-28T14:05:03.719Z"
+		}
+	]
+}
