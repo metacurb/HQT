@@ -7,8 +7,8 @@ export default async function google(question, answer) {
     const response = await axios.get(url);
     const snippetText = response.data.items.reduce((text, item) => `${text}${item.snippet}`, '');
     return {
-      numResults: response.data.searchInformation.formattedTotalResults,
-      googleHits: helpers.getHits(question, snippetText),
+      numResults: helpers.formatNumber(response.data.searchInformation.formattedTotalResults),
+      hits: helpers.getHits(question, snippetText),
     };
   } catch (err) {
     return Promise.reject();

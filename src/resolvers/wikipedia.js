@@ -6,9 +6,7 @@ export default async function wikipedia(question, answer) {
   try {
     const response = await axios.get(url);
     const snippetText = response.data.query.pages.reduce((text, page) => `${text}${page.extract}`, '');
-    return {
-      wikiHits: helpers.getHits(question, snippetText),
-    };
+    return helpers.getHits(question, snippetText);
   } catch (err) {
     return Promise.reject();
   }
