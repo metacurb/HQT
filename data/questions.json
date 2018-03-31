@@ -1,13 +1,3 @@
 {
-	"questions": [
-		{
-			"question": "which creatures not real fish",
-			"negative": false,
-			"answers": [
-				"oyster toadfish",
-				"mesopelagic sabretooth",
-				"ring-tailed horntooth"
-			]
-		}
-	]
+	"questions": []
 }

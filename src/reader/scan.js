@@ -40,7 +40,7 @@ export default function scan(socketUrl) {
     log.success('Question found, resolving... \n');
     const question = parse(data);
     const results = await resolvers.init(question);
-    storeQuestion(question);
+    storeQuestion(message);
     console.log(results);
   });
 }
