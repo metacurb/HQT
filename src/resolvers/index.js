@@ -15,7 +15,8 @@ const init = async ({ question, answers }) => {
     results.googleHits.push([`${answer}`, googleResults.hits]);
     results.numResults.push([`${answer}`, googleResults.numResults]);
   }));
-  return score(answers, results, question.negative);
+  // return score(answers, results, question.negative);
+  return results;
 };
 
 export default {
