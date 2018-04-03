@@ -1,4 +1,4 @@
-import WebSocket from 'ws';
+import ws from 'nodejs-websocket';
 import fs from 'fs';
 import parse from './parse';
 import resolvers from '../resolvers';
@@ -13,12 +13,12 @@ const storeQuestion = (question) => {
 };
 
 export default function scan(socketUrl) {
-  const ws = new WebSocket(socketUrl, {
+  const conn = ws.connect(socketUrl, {
     headers: {
-      // Connection: 'Keep-Alive',
-      // Host: 'api-quiz.hype.space',
+      Connection: 'Keep-Alive',
+      Host: 'api-quiz.hype.space',
       Authorization: `Bearer ${process.env.BEARER_TOKEN}`,
-      // 'Accept-Encoding': 'gzip',
+      'Accept-Encoding': 'gzip',
       'User-Agent': 'okhttp/3.8.0',
       'x-hq-client': 'Android/1.5.1',
       'x-hq-lang': 'en',
@@ -26,15 +26,15 @@ export default function scan(socketUrl) {
     },
   });
 
-  ws.on('open', () => {
+  conn.on('open', () => {
     log.success('Connected to websocket');
   });
 
-  ws.on('close', () => {
+  conn.on('close', () => {
     log.warn('Disconnected from websocket');
   });
 
-  ws.on('message', async (message) => {
+  conn.on('message', async (message) => {
     const data = JSON.parse(message);
     if (data.type !== 'question') return;
     log.success('Question found, resolving... \n');
