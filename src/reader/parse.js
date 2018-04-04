@@ -19,7 +19,7 @@ const cleanQuestion = (string) => {
   };
 };
 
-const cleanAnswers = array => array.map(answer => answer.text.toLowerCase());
+const cleanAnswers = array => array.map(answer => answer.text);
 
 export default function parse(data) {
   const question = cleanQuestion(data.question);
