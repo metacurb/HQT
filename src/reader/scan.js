@@ -20,14 +20,15 @@ export default function scan(socketUrl) {
       'User-Agent': 'okhttp/3.8.0',
       'x-hq-client': 'Android/1.5.1',
       'x-hq-lang': 'en',
+      'x-hq-country': 'GB',
       'x-hq-stk': 'MQ==',
     },
   });
 
-  setWsHeartbeat(ws, '{"kind":"ping"}', {
-    pingTimeout: 1200000,
-    pingInterval: 25000,
-  });
+  // setWsHeartbeat(ws, '{"kind":"ping"}', {
+  //   pingTimeout: 1200000,
+  //   pingInterval: 25000,
+  // });
 
   ws.on('open', () => {
     log.success('Connected to websocket');
@@ -43,7 +44,6 @@ export default function scan(socketUrl) {
       log.warn('Game over, broadcast closed');
       ws.close();
     }
-    console.log(data.type);
     if (data.type !== 'question') return;
     log.success('Question found, resolving... \n');
     const question = parse(data);

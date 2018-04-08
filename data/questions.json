@@ -447,6 +447,230 @@
 			"askTime": "2018-04-06T14:05:46.948Z",
 			"c": 2,
 			"sent": "2018-04-06T14:05:46.993Z"
+		},
+		{
+			"type": "question",
+			"ts": "2018-04-07T20:10:13.781Z",
+			"totalTimeMs": 10000,
+			"timeLeftMs": 10000,
+			"questionId": 34334,
+			"question": "Which of these cities has the most bookshops per person in the world?",
+			"category": "Literature ",
+			"answers": [
+				{
+					"answerId": 105057,
+					"text": "Dublin"
+				},
+				{
+					"answerId": 105058,
+					"text": "Hamburg"
+				},
+				{
+					"answerId": 105059,
+					"text": "Buenos Aires"
+				}
+			],
+			"questionNumber": 12,
+			"questionCount": 12,
+			"askTime": "2018-04-07T20:10:13.781Z",
+			"c": 5,
+			"sent": "2018-04-07T20:10:13.819Z"
+		},
+		{
+			"type": "question",
+			"ts": "2018-04-08T14:04:10.566Z",
+			"totalTimeMs": 10000,
+			"timeLeftMs": 10000,
+			"questionId": 34677,
+			"question": "Who wrote the 17th century plays “The Relapse” and “The Provoked Wife”?",
+			"category": "Literature ",
+			"answers": [
+				{
+					"answerId": 106088,
+					"text": "Jon Bon Jovi"
+				},
+				{
+					"answerId": 106089,
+					"text": "Count von Count"
+				},
+				{
+					"answerId": 106090,
+					"text": "John Vanbrugh"
+				}
+			],
+			"questionNumber": 2,
+			"questionCount": 12,
+			"askTime": "2018-04-08T14:04:10.566Z",
+			"c": 2,
+			"sent": "2018-04-08T14:04:10.674Z"
+		},
+		{
+			"type": "question",
+			"ts": "2018-04-08T14:05:19.093Z",
+			"totalTimeMs": 10000,
+			"timeLeftMs": 10000,
+			"questionId": 34676,
+			"question": "Which of these awards is the heaviest?",
+			"category": "Movies",
+			"answers": [
+				{
+					"answerId": 106085,
+					"text": "BAFTA"
+				},
+				{
+					"answerId": 106086,
+					"text": "Grammy"
+				},
+				{
+					"answerId": 106087,
+					"text": "Oscar"
+				}
+			],
+			"questionNumber": 3,
+			"questionCount": 12,
+			"askTime": "2018-04-08T14:05:19.093Z",
+			"c": 5,
+			"sent": "2018-04-08T14:05:19.185Z"
+		},
+		{
+			"type": "question",
+			"ts": "2018-04-08T14:08:21.493Z",
+			"totalTimeMs": 10000,
+			"timeLeftMs": 10000,
+			"questionId": 34681,
+			"question": "Which of these famous siblings were outlived by their father?",
+			"category": "Literature ",
+			"answers": [
+				{
+					"answerId": 106100,
+					"text": "Brontë sisters"
+				},
+				{
+					"answerId": 106101,
+					"text": "Brothers Grimm"
+				},
+				{
+					"answerId": 106102,
+					"text": "Marx brothers"
+				}
+			],
+			"questionNumber": 7,
+			"questionCount": 12,
+			"askTime": "2018-04-08T14:08:21.492Z",
+			"c": 7,
+			"sent": "2018-04-08T14:08:21.543Z"
+		},
+		{
+			"type": "question",
+			"ts": "2018-04-08T14:09:02.775Z",
+			"totalTimeMs": 10000,
+			"timeLeftMs": 10000,
+			"questionId": 34682,
+			"question": "Which of these celebrities has NOT admitted to believing in UFOs?",
+			"category": "Science ",
+			"answers": [
+				{
+					"answerId": 106103,
+					"text": "Selena Gomez"
+				},
+				{
+					"answerId": 106104,
+					"text": "Katy Perry"
+				},
+				{
+					"answerId": 106105,
+					"text": "Kendall Jenner"
+				}
+			],
+			"questionNumber": 8,
+			"questionCount": 12,
+			"askTime": "2018-04-08T14:09:02.775Z",
+			"c": 5,
+			"sent": "2018-04-08T14:09:02.816Z"
+		},
+		{
+			"type": "question",
+			"ts": "2018-04-08T14:09:40.364Z",
+			"totalTimeMs": 10000,
+			"timeLeftMs": 10000,
+			"questionId": 34683,
+			"question": "The name of which of these is believed to derive from the Portuguese for a grimace related to ghosts?",
+			"category": "Food & Drink",
+			"answers": [
+				{
+					"answerId": 106106,
+					"text": "Piri Piri"
+				},
+				{
+					"answerId": 106107,
+					"text": "Coconut"
+				},
+				{
+					"answerId": 106108,
+					"text": "Enchilada"
+				}
+			],
+			"questionNumber": 9,
+			"questionCount": 12,
+			"askTime": "2018-04-08T14:09:40.364Z",
+			"c": 7,
+			"sent": "2018-04-08T14:09:40.717Z"
+		},
+		{
+			"type": "question",
+			"ts": "2018-04-08T14:10:28.287Z",
+			"totalTimeMs": 10000,
+			"timeLeftMs": 10000,
+			"questionId": 34684,
+			"question": "The character of Marvel's Professor X was inspired by which of the following?",
+			"category": "Literature ",
+			"answers": [
+				{
+					"answerId": 106109,
+					"text": "John the Baptist"
+				},
+				{
+					"answerId": 106110,
+					"text": "Malcolm X"
+				},
+				{
+					"answerId": 106111,
+					"text": "Martin Luther King Jr"
+				}
+			],
+			"questionNumber": 10,
+			"questionCount": 12,
+			"askTime": "2018-04-08T14:10:28.287Z",
+			"c": 2,
+			"sent": "2018-04-08T14:10:28.385Z"
+		},
+		{
+			"type": "question",
+			"ts": "2018-04-08T14:12:02.377Z",
+			"totalTimeMs": 10000,
+			"timeLeftMs": 10000,
+			"questionId": 34686,
+			"question": "Of these three countries, which has the most UNESCO heritage sites that are deemed to be “in danger”?",
+			"category": "Geography",
+			"answers": [
+				{
+					"answerId": 106115,
+					"text": "DR Congo"
+				},
+				{
+					"answerId": 106116,
+					"text": "Afghanistan"
+				},
+				{
+					"answerId": 106117,
+					"text": "Mali"
+				}
+			],
+			"questionNumber": 12,
+			"questionCount": 12,
+			"askTime": "2018-04-08T14:12:02.377Z",
+			"c": 4,
+			"sent": "2018-04-08T14:12:02.420Z"
 		}
 	]
 }
