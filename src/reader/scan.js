@@ -1,4 +1,3 @@
-import { setWsHeartbeat } from 'ws-heartbeat/client';
 import WebSocket from 'ws';
 import fs from 'fs';
 import parse from './parse';
@@ -25,13 +24,8 @@ export default function scan(socketUrl) {
     },
   });
 
-  // setWsHeartbeat(ws, '{"kind":"ping"}', {
-  //   pingTimeout: 1200000,
-  //   pingInterval: 25000,
-  // });
-
   ws.on('open', () => {
-    log.success('Connected to websocket');
+    log.success(`Connected to websocket - ${socketUrl}`);
   });
 
   ws.on('close', () => {
