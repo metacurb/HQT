@@ -30,14 +30,11 @@ export default function scan(socketUrl) {
 
   ws.on('close', () => {
     log.warn('Disconnected from websocket');
+    scan(socketUrl);
   });
 
   ws.on('message', async (message) => {
     const data = JSON.parse(message);
-    if (data.type === 'broadcastEnded') {
-      log.warn('Game over, broadcast closed');
-      ws.close();
-    }
     if (data.type !== 'question') return;
     log.success('Question found, resolving... \n');
     const question = parse(data);
