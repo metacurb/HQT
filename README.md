@@ -3,16 +3,15 @@ Attempt to find the answer most likely to be correct from a question given on HQ
 
 ## How it works
 Connecting to the HQ Trivia API, we are able to see when a `broadcast` will be taking place. If the bot finds a `websocketUrl` available, it will create a new session, and begin monitoring that data. If a question is passed through, it will then clean the question and answers, and use third party services to try and find results. 
-### Scoring
+### Scoring (To be implemented)
 A scoring system will be used to determine how likely that any one of the answers is the correct one. This won't be full-proof, but will hopefully give a better indicator of a correct answer. Below is a summary of how each part of the system works.
 This will need to be updated as time goes on. Numbers will need to be updated to try and give the best representational score possible.
 
 Resource      | Scoring type    | Weight |
 ------------- | --------------- | ------ |
-Wolfram Alpha | result returned | 15%    |
-Google Search | no. of results  | 15%    |
-Google Search | Number of "hits"| 35%    |
-Wikipedia     | Number of "hits"| 35%    |
+Google Search | no. of results  | 20%    |
+Google Search | Number of "hits"| 40%    |
+Wikipedia     | Number of "hits"| 40%    |
 
 ### Google
 Using Google's custom search engine REST API, we are able to return a list of results based upon a query. This gives us important data that we can validate our question against. We will take:
@@ -24,10 +23,6 @@ We can that use that information and compare it to each answer, creating a score
 
 ### Wikipedia
 Similarly to Google, we will use Wikipedia's API to search for each answer. Using the question, we will check for "hits" matching _relevant_ words.
-
-### Wolfram
-TBC.
-
 
 ## Setup
 
@@ -88,13 +83,11 @@ HQT
     │
     └───resolvers
         │   index.js
-        │   wolfram.js        // Results returned from Wolfram's API
         │   wikipedia.js      // Results returned from Wikipedia's API
         └───google.js         // Results returned from Googles search API
 
 ```
 ## Resources/APIs
-* [Wolfram Alpha](http://products.wolframalpha.com/api/)
 * [Google Search](https://developers.google.com/custom-search/json-api/v1/using_rest)
 * [Wikipedia](https://www.mediawiki.org/wiki/API:Main_page)
 
